@@ -1,6 +1,131 @@
+# dm Kundenteam Strategie, 31.07.26
+
+Dave wäre schwer für DM zu ersetzen
+
+Interne Abschiedsmails: wer, wann?
+
+Wer sagt, dass das Kontaktverbot aufgehoben ist?
+Mails von Vorstand: fragen, ob so zu Kundenteam versendbar?
+Ist die Tür zu? Anstellung bei DM?
+-> Nächste Woche mit Daniel(, Fahd) zusammensetzen
+
+Timm Urlaub bis 05.08.?!
+
+VMWare Abbau -> Potential für neues Team?
+
+# Kennenlernen Jennifer Künstle, 30.07., Dialogicum
+
+Erinnerung Protokoll an das Treffen mit Jennifer Kühnle bei dm im Dialog ICoM am 30.7.2026 mit dabei war mein Kollege Markus. Ich habe mich vorgestellt und wir haben besprochen, dass ich die eben übernehmen werde. Zweiter Punkt war die Jahresplanung. Dazu haben wir zunächst über die beiden Entwickler gesprochen, die wir bei dm in ihrem Bereich haben. Es ist noch nicht sicher, ob die verlängert werden. Sie wollen das erst mal intern noch abklären. Aber sie sind sehr zufrieden mit den beiden der Kunden sich vielleicht nicht zu verlängern, wäre einfach, um ein bisschen durch zu mischen das Team dazu zu bringen auch auf neue Teammitglieder oder neue Team Zusammensetzung zu reagieren, weil das Team damit Schwierigkeiten hat auf der anderen Seite spricht dagegen das Team zu ändern weil die beiden sind reingekommen. Das hat bisschen Unruhe reingebracht. Na eine Weile gedauert, bis sie angekommen sind. Sie sind jetzt gut aufgenommen daher muss man schauen wie sie es entwickelt. Das andere war unser Kollege. Markus wird rausgehen als Consultant Begründung war er ist zu teuer sie sind zufrieden mit ihm aber mit über 1600 € pro Tag ist er mit Abstand der teuerste Coach ganz dm wurde gesagt und sie hat da Probleme mit dem Budget. Dann braucht sie noch einen zweiten Coach für einen Großprojekt da startet Laufzeit anderthalb Jahre Projekt ist ja sehr wichtig, weil ihre persönlicher Erfolg dran hängt und sie auch an diesem Erfolg gemessen wird und Ärger bekommt, wenn das Projekt scheitert sie meinte in anderen Firmen würde sie rausgeschmissen werden wenn das Projekt scheitert bei DM eben nicht. Sie stellt sich jemand vor als Sparringspartner für den Projektleiter beziehungsweise die Projektleiterin. Das kann ein Coach sein. Ihre andere Idee ist ob zwei Monate lang etwas wie ein harter Hund der bisschen Projektleitung mitmacht und das Projekt aufsetzt reinkommen soll und danach dann eher der Coach, der die Teams verwaltet und dann eben das Coaching macht. Da müssen wir schauen sollte dann eben jemand Senior sein. Sie wurde gefragt von Markus welches Level ob Junior oder Senior oder professionell ebenfalls mit dem Preisschild dazu. So wie sie es angehört hat, muss es kein Junior sein und soll wahrscheinlich auch kein Junior sein daher könnte professionell vielleicht die richtige Wahl sein Senior wie schon gesagt wird ihr vermutlich zu teuer sein, aber dass sie aufgeschlossen. Wir sind so verblieben, dass wir jetzt mal schauen, wenn wir liefern können. Sie hätte die Person gerne schon ab September nein stimmt gar nicht die andere Person den Ersatz für Markus Neidhardt hätte sie gerne bis September, dass im September ein Übergang stattfinden kann, weil sie Ende September selbst in Urlaub geht für drei Wochen, glaube ich und halt eben das vorher geregelt haben will und nicht zurückkommen will und dann sitzt da jemand neues, den sie paar Wochen lang nicht gesehen hat. Sie gibt Bescheid wegen unserem beiden Entwicklern genau
+
+## 31.07. Gespräch mit Markus & Markus
+Markus N. informiert, Nachfolger dann Mitte September rein, weil Markus Ende August Urlaub hat
+
+Ronja würde Jenny gerne behalten, abwarten
+
+
+# Eskalation
+
+DM verschickt intern eine Anweisung, dass 12 Monate lang keine Externe MA als Freelancer eigestellt werden dürfen.
+
+
+# APM Training, 29.07. Update
+
+Terminvorschlag verschickt.
+
+Markus N. und Stefan H. übernehmen das Training.
+
 
 
 # -------(oben)------------- Ab hier Martin Blersch ------------(oben)---------------
+
+# APM Training Auftragsklärung, 31.07.2026
+
+To Dos:
+- Heterogenität wird nochmal überprüft (Service Leute)
+- 2 Tage
+- Reflektion Trainingsstoff: was nehmen wir mit?
+
+- Kurze Vorstellungsrunde
+- Was könnte euch helfen?
+  - trainig für (CSS) consultings buchen, marion führt vor
+  - LCS wird eingeladen, auch wenn eher PZO
+  - unterlagen von andrena weiterverwenden??
+
+  Fokus
+  - pspo hat nicht alles beantwortet, wenig konkrete methodiken
+  - wie kann ich im team anforderungen aufnehmen udn beschreiben, priorisieren
+  - Skalierung, betrachtung DM-Kontext
+  - heterogene Gruppe
+  
+  [Isabel]
+  - EHER NICHT [Kathrin]: (Wertmaximierendes) Produktmanagement im skaliertem Umfeld 
+  
+  [Yasmin]
+  - Gerne advanced, nciht nur basics 
+  - Wie funktioniert Anforderungsmanagement mit mehreren Abhängigkeiten
+  - wie verschiedene Roadmaps umsetzen
+  - wie Theorie anwenden?
+
+[Xena]
+  - Komplexität ist das Problem, Basics bekannt
+
+Erwartungsmanagement
+- Komplexität von DM hausgemacht, nicht im Fokus als Standard
+  - Übungen zur Reflektion, wie auf DM übertragen
+- andrena: so sollte es laufen, marion: weiterkneten auf DM [Kathrin]
+- Beides andrena [M.N.]
+- Bereichsübergreifender Fokus, daher nicht zu sehr maßschneidern auf Bereich
+- Theorie + was läuft bei uns auch so? was anders? [Yasmin]
+- Startschuss: Auf CCN Ebene Austausch zwischen beiden Teams
+  - Herausforderung 
+    - Skalierung
+    - wer schreibt Stories?
+
+ - LCS hat andere Bedürfnisse (PZO-Training, skalierte Entwicklung)
+   - Isabel kennt diese nicht
+   - Frage, ob APM passend für LCS
+
+- 22./23. Oktober PZO Training 
+
+- DM-Kollegen aus Kundenservice 
+
+COP Consultants in DM - Es kamen Fragen auf "wie priorisieren?, backlogorga" -> Training
+
+
+Teilnehmer aus 2 Produktteams Customer Connections
+
+Isabel Lattke PV Markus
+Yasmin Richwien Bereich Kundenkonto, AI im PRudktmanagmen besucht
+Xena Raquet, Training besucht PSPO, bei Katja
+
+Alte Infos:
+---
+
+Preis:
+5-16 Personen
+2 Trainer - 2 Tage - 6.500€  
+1 Trainer - 2 Tage - 6.000€
+
+- Idee:
+  - Markus N. und Stefan H. übernehmen das Training.
+  - ca 9-13 Leute
+  - 1 oder 2 Tage. 24.9. und/oder 30.9.
+  - bei andrena vor Ort
+  - Je nach Erfahrung 1 oder 2 Trainer
+
+
+- Impulse zu agiler produktentwicklung
+
+Die Zielgruppe sind Consultants im Umfeld von Felix.
+-	Zwei Entwickler starten neu als Consultants, aber auch langjährige (übergreifende) Projektmanager werden dabei sein.
+-	Sie haben schon PSPO-Trainings besucht und ein Agiles Mindset mitbekommen.
+-	Sie haben teilweise Erfahrung mit Design Thinking.
+-	User Story Mapping bekommen sie hin.
+-	Product Box bauen brauchen sie nicht („wobei das für manche eine Herausforderung wäre“)
+-	Ansonsten gerne Hands-on.
+
+
+
 
 # APM Training, sergej werfel, 27.7.2026
 
@@ -12,7 +137,7 @@
   - ohne integration team
   - viel skalierung
   - PZO 2.0
-- halb teambuilding, halb wissensauffau
+- halb teambuilding, halb wissensaufbau
   - business analyst
 - APM
 
