@@ -3,8 +3,7 @@
 Meine To Dos
 
 - EnBW Einarbeiten 
-  - [ ] Angebotserstellung üben für Urlaub von Andreas
-    - [X] Teilen der Skills durch Andreas
+  - [X] Teilen der Skills durch Andreas
   - [X] Matthias Schwarz (Coach EnWiCore) kennenlernen
   - [ ] Skills von suhail suchen, Anforderung: Einarbeitung im September 14 Tage auf uns
   - [-] Benny fragen, ob er einen SM besorgen kann für DBB Team
@@ -39,7 +38,8 @@ Meine To Dos
   - [X] Pipedrive Eintrag anlegen, Ersatz Elternzeit
 
 Mit Andreas klären vor seinem Urlaub
-- [ ] offene EnBW-Dinge
-- [ ] was machen bei Problem x?
-- [ ] was, wenn alle drei in Urlaub sind?
 - [ ] Von Andreas erklären lassen, woher er die Infos für die ToDo-Liste bekommt
+
+
+- EnBW Bestellung verarbeiten (ToDo Liste)
+- Vincent Groener Starkkraft

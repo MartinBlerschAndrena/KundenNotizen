@@ -1,3 +1,85 @@
+# E-TECH Bereich, Christian Bosch BV
+
+## Vorab Gespräch
+- Brauchen Ersatz für Moritz
+-> Workshopreihe und Ausblick
+  - ETECH Richtung Produktorganisation umstellen
+  - Projektmanagement-Team in Produktmanagement-Team
+  - wo soll die Reise hingehen? nicht konkrete Umstrukturieren
+-> Learning Journey
+  - was wäre sinnvoll aus unserer Sicht
+
+-> Unterstützung und Befähigung des Projektteams
+  - Schulung Produktmanagement: wie denkt man Produkte, Best Practices
+  - Produktmanagement Learning Journey um Wissen zu verbreiten
+
+ETECH PZO muss nicht werden wie CTECH PZO
+
+Wollen PZO, hatten bisher noch kein PZO-Training
+Hatten PZO-Workshop mit Michael
+- Impulsvortrag (aus PZO Training)
+- Sich mit dem eigenen Produkt beschäftigen (50%)
+  - Produkte besprochen
+  - Zuordnung in DM Levels (Level 1 und 2 Produkte) mittels Product Canvas
+  - Folgeworkshop mit ausgefülltem Product Canvas
+ETECH stellt Managementwerkzeuge bereit, wollte aber nicht jeder
+-> soll in Zukunft auch für Produktorg. bereitgestellt werden
+-> Werzeuge für PZO organisationsweit zur Verfügung stellen
+
+Zu wenig Zeit oder haben wir schon: PZO-Training nicht nötig
+
+## Gespräch mit Christian Bosch
+
+---
+Zunächst Workshop am 28.09.
+- Vorbereitung mit und durch Michael (+Markus N.)
+- Michael koordiniert
+- Raum gebucht für den 28.09.
+- 26.08. vormittags Termin Abstimmung 09 Uhr, 2h
+- 15.09. nachmittags 15:00 uhr
+---
+
+
+Fokus Folgeworkshop am 28.09.
+- Mit Produktcanvas eigene Produkte einordnen bis 14.09. sammeln, sichten, ca. 25 Canvas
+- was leiten wir daraus für nächste schritte ab
+- business facing/phasing? produkte 
+- Was würde ein Plattformprodukt ausmachen?
+- was heißt bei uns business?
+- was heißen die levels?
+- mit produktteams ins gespräch kommen, anschlusspunkte finden
+- 1 Tag vor Ort
+- Alles BVs, vielleicht auch TVs einladen
+
+-> mehrere Vorbereitungsrunden drehen (zwischen 14. und 28.09.)
+
+Wir wollen ein Projekt gründen: Produktmanagement
+Ziele noch nicht komplett klar
+Wir haben nicht so viele Produkte und Eigenentwicklungen wie in CTECH, mehr plattformorientiert
+
+Etwas an C-TECH orientieren (Produkttypen), aber auch für E-TECH (welche Produkte haben wir, welche Veränderungen ergeben sich dadurch?, was heißt PZO für uns?)
+Eigene Vorgehensweise, aber auch schauen, was bei C-TECH gemacht wurde
+
+Von andrena:
+- Wir wollen jemandem dabei haben, der aus der Produktorga Sicht das Projektteam unterstütz und befähigt (andere Gedanken reinbringen)
+- Weiterführen des Workshops, am 28.9. nächster Schritt, wieder bei andrena?!
+
+
+# DM Strategietreffen (Telefonat mit Fahd, 03.08.26)
+
+Fahd kontaktiert Jacqueline Meier (DM Seiz Sekretärin)
+Vorschlag Treffen 1x Halbjahr
+
+
+# dmTECH - PZO Coaching, ITS -  
+
+Ich organisiere das
+
+Fahd und Markus gehen hin
+
+Auftrag fehlt -> nachfragen wegen 6 PT
+
+
 # dm Kundenteam Strategie, 31.07.26
 
 Dave wäre schwer für DM zu ersetzen
