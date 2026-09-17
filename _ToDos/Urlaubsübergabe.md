@@ -93,6 +93,16 @@ Andreas: CH5 (C hoch 5) -> "Customer" ^ 5
  
 * Fokus: E2E-Tests E-Mob
 
+
+## Gespräch mit Mehmet Toy
+
+Bereich FInanzberatung und Telekommunikation (z.B Telekom)
+Schwerpunkt: Testautomation
+Abstimmung mit Entwicklern, Stakeholdern, POs
+API-, Performancetests, CI/CD, Kafka, MEssaging Services Testing
+
+
+
 ---
 
 

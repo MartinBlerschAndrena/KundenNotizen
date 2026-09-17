@@ -26,11 +26,11 @@ Meine To Dos
 - Einarbeitung
   - [ ] Produkte kennenlernen
     - [ ] PZO Produkt verstehen
-  - [ ] RKA Juli
-  - [ ] Leistungsnachweise Juli
+  - [X] RKA Juli
+  - [X] Leistungsnachweise Juli
 
 - Sonstiges
-  - [ ] FZI Anmeldung nach Rechnungsbezahlung
+  - [X] FZI Anmeldung nach Rechnungsbezahlung
   - [ ] Retro organisieren für Leitungskreis
   - [X] E-Mail Markus Secorvo
   - [ ] Retro mit DBB-Team (Ansprechpartner Fabian Knittel)
@@ -42,4 +42,3 @@ Mit Andreas klären vor seinem Urlaub
 
 
 - EnBW Bestellung verarbeiten (ToDo Liste)
-- Vincent Groener Starkkraft

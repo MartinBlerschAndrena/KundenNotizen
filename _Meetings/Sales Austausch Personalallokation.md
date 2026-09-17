@@ -19,4 +19,3 @@ Idee als Austausch für Arab: Alexandra Rupp, München, 1,5-2 Jahre Erfahrung
 Martin Stach würde technologisch passen, ist aber schon bei anderen im Gespräch bzw. eingereicht
 
 
-

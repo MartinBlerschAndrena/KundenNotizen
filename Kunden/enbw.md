@@ -1,4 +1,174 @@
-# 
+# Abstimmung EnWiCore AI im SDLC mit Peter 03.09.
+
+Markus hat noch Urlaub, kann bei Vorbereitung nicht dabei sein
+ist erst ab Oktober richtig dabei
+
+Fragen:
+- Zusätzlich eine Einführung, Schulung, Informationsaustausch vorher nötig?
+- Vor Ort? Wann? Wie lange?
+- Vorbereitung
+- Fokus
+  - erstmal KI-Thema, Einordnung
+  - nicht gleich Spec KIT
+
+Mit Teilnehmern 
+- feststellen, wo sie stehen, kleinere Gruppe, Probleme verstehen
+
+- Vertrieblich, was nötig?
+
+----------
+
+Inhalt:
+- Standortbestimmung
+
+Vor Ort Termin, 2h
+- Problem und Umfeld kennenlernen
+- Ziel: Beratung: status quo erheben, Schmerzen kennenlernen, konkrete Ausgestallung abstimmen, herausforderungen
+- Vertreter als Querschnitt mit Team Player
+- was wollt ihr genau lösen? -> Erwartungsmanagement
+- Teile der BAs sollten da sein (wer ist wichtig für euch?)
+
+Fragen im Termin:
+- Standortbestimmung KI, wie agentisch arbeitet ihr? benutzt ihr chatgpt?
+- Welche Probleme möchtet ihr generell lösen?
+- was erhofft ihr euch?
+
+Gleich zwei Termine machen. Zweigeteilter Workshop
+-> stärkt vertrauen
+
+in 2 wochen und in 4 wochen
+
+Kölner dazuholen, morgen entscheidet sich, ob sie zum schweizer Unternmehmen gehen oder dabei sein können.
+
+
+
+# Gespräch CGI - Kurzer Austausch zum Projekt EnBW EOP mit Neslihan
+
+- Neslihan Anfrage
+
+  Unsere Kollegin im Projekt ab Juli in ein Sabbatical geht und voraussichtlich im Januar 2027 zurückkehren wird.
+  Aus den Gesprächen mit dem Projekt habe ich mitgenommen, dass man sich sehr freuen würde, wenn Miriam nach ihrer Rückkehr wieder im Projekt unterstützen könnte. Deshalb würde ich mich gerne einmal mit dir austauschen, ob und welche Möglichkeiten es gibt, dies gemeinsam zu ermöglichen.
+
+- Andreas Rahmenbedingungen
+
+  Wir können das machen auch für cgi gelten dann der Partner Rahmenvetrag in seinem vollen Umfang 
+  Vertragsstrafen Höhen usw. 
+  Tagessatz UX aus dem Rahmenvetrag je nach Seniorität -18,5% 
+  
+  Vorrausstezung es gibt ne Bestellung/ Ausschreibung der EnBW und wir holen die… 
+  Jan Müller ist dort im Projekt und kennt die Ansprechpartner. Von der Prio ist nur ein Gefallen von uns und nicht kriegentscheidend.
+
+-> wir sprechen uns wieder, wenn Andreas aus dem Urlaub ist, um abzustimmen, wer auf den Kunden zugeht und ihm
+   das vorschlägt.
+
+
+# Gespräch Onboarding von Mehmet Toy mit Andreas 13.08.
+
+In EMob  passt Toy gut und soll auch längerfristig bleiben
+Virtueller Smart Client für Mehmet eine Idee
+Mehmet konnte  nicht (kurzfristig) mit im Termin dabei sein
+
+-> Andreas klärt, wann er beginnen kann und stimmt sich mit Mehmet ab.
+   Stimmt sich mit Carsten ab, der aus dem Urlaub kommt
+   Informiert mich im CC, wenn es eine Entscheidung gibt, wann er losläuft
+
+
+# Vorstellung Martin Stach / Richard Pohl, 12.08.26
+
+- was würdest du machen, um das System sicher zu halten (das es läuft)
+  - staging-konzept
+- viele Komponenten im Einsatz -> wie reinkommen/einarbeiten?
+- was ist das wichtigste beim agilen arbeiten
+  - ...
+- bereit nach KA zu kommen?
+
+
+# Gespräch mit Bastian
+
+Themen:
+- die beiden EnBW Ausschreibungen
+
+- dritte Ausschreibung doch anbieten oder nicht?
+- EnBW Rechnungen ab September mit 
+    •	Leistungszeitraum
+    •	Zugehörige Bestellposition-Nummer der EnBW-Bestellung, inkl. Rolle, Seniorität und Name des eingesetzten Erfüllungsgehilfen
+    -> alle Bestellungen durchschauen und in ToDo Liste eintragen
+    --> Zuordnung unklar aus Bestellung und Person
+
+    Für EMob in Email zur Ausphasung der Kollegen (hier ist der Name schon drin)
+
+- Projekt EKP/CSB/KBP
+  - Seniorität und Zuordnung mit Jochen klären
+
+
+# Gespräch mit Marcel-Simon Graf
+
+-> Sergio fragen
+-> Jochen schickt mir die angedachte Verteilung
+
+
+# Gespräch mit Herrn Piazza
+
+Inhalt des Gesprächs:
+- Unsere Kollegen haben ihre Stundenzetteln nicht 100%ig getrennt nach den drei Projekten 
+  -> Zuordnung zu den Positionen schwierig, aber möglich, Zettel bereits unterschrieben
+- Mit der Transitionsphase von CSB wurde bereits begonnen (anstatt erst ab den 01.09.)
+- Michael Dettmer läuft ab dem 01.10. über uns; Fehlt bei Bestellung
+- Scharfe Trennung der Personen/Posten nötig?
+  - Evtl. in einem Projekt 2 Seniors, im anderen 2 Professionals
+
+
+
+# Gespräch mit Richard Pohl, 10.08.26
+
+Themen:
+- Nachfolge Souhail Arab
+  - Martin Stach, Stuttgart
+  - P statt J
+  - 14.09. rein, 1 Woche Übergabe
+  - 21.09. Souhail raus
+  - ab 01.10. dann regulärer Beginn
+
+  - [ ] Kennenlerntermin mit Richard und Rammensee, Richard sucht Termin
+
+- Ausschreibung BPM030204 
+  •	2 x RC 2, Level Senior, Software Engineer
+  •	4 x RC 2, Level Professional, Software Engineer
+  •	1 x RC 2, Level Junior, Software Engineer
+  - passt das mit zwei Senioren?
+
+  - [ ] Richard fragt bei Michael Rammensee nach ob ok mit zwei Senioren
+
+  SENIOR - Florian Hartmann (Elternzeit 12.11.2026-11.04.2027) -> Ersatz 
+  SENIOR - Tobias Haaß
+
+- Ausschreibung 
+  Business Data Architecture Analysis and Product Management DataBackbone
+  -> Ist die Ausschreibung für DICH?
+
+  - [ ] Angebot für Exxeta. Nachfragen ob interessant, dann mit morderatem Aufwand bewerben
+
+
+
+# Gespräch mit Oliver Probst
+
+Ziel:
+- Ziele und Vorgehensweisen abstimmen für Workshop
+
+Thema:
+- Geplanter Workshop zum Thema AI Einsatz bei EnWiCore.
+- Planung im September
+- Durchführung starten am 1. Oktober 
+
+
+
+Fragt nach .NET Knowhow
+- will evtl. aus anderem Bereich ein paar Funktionen in C# übernehmen
+- Wie, wo in welchem Umfang und wann wir wie kurzfristig Kapazitäten haben können wir auch gerne abstimmen,
+
+
+
+## --------------------------------------------------- 
 
 was nirgendwo steht ist angreifbar
 

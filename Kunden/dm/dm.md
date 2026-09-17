@@ -1,3 +1,517 @@
+# Vorstellungsgespräch Ruben Gehring
+
+Selfcheckout und Bedienkasse: Kunde bezahlen ermöglichen
+
+Dominic: Technik und Architekturverantwortlicher
+Andrea: Entwicklerin backend und architektur, etwas frontend
+
+robin seit mai im team, 2 jahre dm
+fullstack
+fokus ki factory
+
+self checkout solutions
+- selbstbedienungskassen
+  - rollout in jeden markt
+  - monolit mit generiertem code, schlechte testabdeckung, feature listen unbekannt
+  - an diesem Repo/Monolit arbeiten mehrere Teams (10-12), werden gerade in Fokus Teams reorganisiert
+  -> neues Projekt SBNEXT, Migration wird JAhre dauern
+- scan and go mit privatem smartphone, dann an kasse, smartphone scannen
+
+- Jede Selbstbedienungskasse ist auch eine Bedienkasse
+
+
+
+Fragen von dmTECH:
+Was hältst du von Legacycode
+Was ist dir wichtig bei der Softwareentwicklung?
+Welche arbeit machst du in der SW Entwicklung am liebsten?
+Wunsch: andrena sieht auch andere Kunden, Anspruch Ideen und andere Blickwinkel mitreinbringen
+Veranwortung bei dmTECH stark in Teams, Segen und Fluch
+Wie stellst du dir das optimale Softwareentwicklunsteam vor?
+Deine Einstellung zu vor Ort Arbeit/Treffen?
+Deine Erfahrung mit KI?
+Was hast du bei deinem KI Projekt gelernt
+
+# Vorstellungsgespräch Karsten Diekhoff
+
+Robin Engel Full Stack, viel KI-Factory, seit APril im Team
+Andrea Kohlmann, seit 2,5 Jahren im Team und DMtech SW Entwicklerin, vor allem Backend und Architektur, an neuer Kassensoftware
+DOminic Weiser techn. und arch. Verantwortlicher (nach inne und außen) seit mehreren Jahren dabei
+Steffen Göhring PO
+
+---
+Karsten hat sich gut und sympatisch verkauft, unaufgeregt
+Viele Fragen gestellt
+---
+
+Frage nach vor Ort -> fast jeden Tag da
+
+
+
+Warum Java nach Kotlin?
+Fragen zu MPS, sinnvoll das einzusetzen?
+Gearbeitet in Legacy Software -> Auto-Standard Security
+
+Was macht Software Craftmanship aus?
+Wie war es als Vertretungs-PO?
+Teamarbeit: wie arbeitet das optimale Team zusammen? KI und eine Person zusammen pair programming -> weiß nicht wie
+Wartbarkeit wichtig -> wie das ermöglichen?
+
+
+SCS Self Checkout Solutions: alles was mit self checkoutr zu tun hat
+-> SB Kassen , inkl. Möbel, HW, Möbel in Märkte, Techniker bestellen auf Zeit, ...
+- SW-Entwicklung der Kassensoftware -> SBNEXT
+
+Kassensoftware 
+- legacy Monolit
+- UI zum Stammdaten aufnehmen, Workflows dazu, Modell modernisiert
+- Model driven development - nicht gut
+
+Scan and go (formlaer Prozess), mit dem Handy selbst scannen
+DMPOS, viele fachliche Prozesse,
+fachliches Know-How fehlt,
+Testabdeckung ist ok (aber mehr nicht)
+Wir brauchen Neuentwicklung -> nicht im Fokus für seine Position
+
+Software kann angefasst werden.
+
+Weiter- und Fortentwicklung von DMPOS Legacy Software 
+- moderniesieren
+- SW Craftmanship
+- Boyscounting
+- mit Sabine zusammen
+- viel Zusammenarbeit mit anderen Teams / Code Reviews
+- Interdisziplinär, auch UX Designer
+- Java Swing
+
+Zeitplan neue/alte Software: 
+- Migration gestartet, Neuentwicklung seit letztem Jahr
+- Diese Jahr Parallelbetrieb starten, dann parallel 4 Jahre lang
+- Architektur getrennt
+- erst neue Länder
+- später digitaler Euro, Wero
+
+HW der Kassen ist individuell
+Prozesse werden länerweit überschrieben
+Drucker unterscheiden sich (Gesetzgebervorgabe, "diesen Drucker") -> über Parameter
+Parameter ermöglcihen das Programmieren der Kassen -> muss gut überwacht werden
+
+# Abstimmung PZO Workshops und Begleitung DM
+
+
+- Michael Battenfeld ab 01.01. PZO Begleitung, Andreas versucht ihn vorher rauszubekommen
+- Jan Baumann jetzt für 50% als 3 monatige Zwischenlösung
+- Robin 2. Wahl, lieber EnBW wenn dort was verfügbar
+
+
+EnBW
+---
+Markus N.:  2-3 PT
+Benny:
+Peter:
+
+Aline: kostenlos
+
+Markus geht, solange er bei DM nicht mehr eingebunden ist, primär in EnBW rein, um möglichst die 5-6 PT auszuschöpfen.
+Aline kommt erst einmal kostenlos dazu, um KI-Expertise aufzubauen und perspektivisch mitzuarbeiten.
+Peter geht mit geringem Umfang dazu.
+
+Sobald Markus bei DM mehr eingebunden ist, reduziert er bei der EnBW seine Stunden. Evtl. kann Aline dann schon mitarbeiten. Sobald Michael bei DM übernehmen kann, hat Markus wieder mehr Kapa für EnBW.
+
+
+DM
+---
+
+Idee: Wir verkaufen DM, dass wir euch beide schicken, damit es kontinuierlich weiterläuft, bis Michael übernehmen kann.
+Markus und Michael halten weiterhin zusammen die PZO-Workshops.
+Die Begleitung soll Michael übernehmen, sobald er aus seinem aktuellen Projekt abgezogen werden kann (spätestens zum 01.01.). Bis dahin übernimmt das Markus. Da noch nicht bekannt ist, wann damit losgelaufen wird, kann sich Markus solange mehr auf EnBW konzentrieren. Michael kann ihn tageweise unterstützen.
+
+
+PZO-Workshops
+Markus N.
+Michael B.
+
+Begleitung:
+Markus N.:  2-3 PT
+
+Michael ab 1.1. verfügbar, evtl. früher
+
+Unklar wie viele Workshops
+Unklar wann Beginn der Workshopreihe ist
+-> sprechen mit dm
+
+## Gespräch mit Markus N.
+
+Markus N.
+Produktmanagement: Pm neu verstehen
+aus PM sicht team begleiten 6-9 monate, 2-3 Tage die woche
+
+-> vielleicht sinnvoll, dass Markus N. bleibt?
+
+
+# Vorbereitungstermin Kennenlernen Ersatz für Oli
+
+DM Kasse hat viel Interaktion mit anderen Teams, komplexes Umfeld und Monolit.
+Vernetzung wichtig, viel Softskill gefragt
+
+Ablauf
+- 1h, recht lang
+- Vorstellungsrunde
+- Ihr redet über euch: 
+  --- wichitg ---- 10 Min Lebenslauf erzählen können -> üben
+  - Disuktieren was sie erzählen sollen
+  - Überleitung "was macht ihr im Projekt"
+  -> Keine Redepausen zulassen, flüssiges Gespräch, kein Monolog, ist die Person interessiert
+  - Agile Buzzwords im Profil erklären können
+  - üblicherweise nicht technische Personen, Personalverantwortliche und Produktverantwortlicihe und personen aus dem Team
+  - [ ] Vorher: Monolog zusammen üben, gerne auch mit uns
+  - Allgemeine INfos
+    - perDu, Kleidung
+
+
+# Abstimmung mit Fahd zu weiteren Schritten zu Enterprise Architektur
+
+Idee: Erstmal mit Lars Alvincz abstimmen, ob die Rolle für ihn in Frage kommen würde.
+Erst wenn nicht, mit anderen (bspw. Sebastian Frühling in München) sprechen
+
+- Andreas wäre bereit, Lars aus der EnBW rauszuziehen
+
+
+Enterprise Architect gerade im Bereich Governance
+Auslöser: Data Leak -> bessere Verknüpfung der Produkte benötigt
+Momentan wenig Governance, hoher Grad an Autonomie in den Produkten und Teams, dezentral
+-> Vernetzung der Teams, Einführung Governance ohne Autonomie zu ersticken, Plattform- und Referenzarchitekturen bereitstellen, ...
+
+Startzeitpunkt unklar. 01.10. / 01.11.
+Fahd will am Freitag Profil schicken
+
+Profil anpassen
+
+
+
+
+# DM Ergebnisse Seitz
+
+Seitz ware alleine
+
+Andere Bereiche
+KI-Thema hohe Prio -> wieso ist andrena nicht noch stärker dabei, gerade OCC
+
+Strategsiche Ebene:
+Technologieberatuung, E-Commerce, Agentic Commerce -> keine andrena felder
+Produktebene -> direkt bei Produkten nachfragen
+
+Themen:
+- KI: 6 Strategische Projekte, andrena ist nicht drin, liegen bei Christian Mohr
+- Empowerment KI-Teams: es gab eine Runde, wo man auf die Partner zugegangen ist (mehrere Partner), wollen das dezentral organisieren, wir waren nicht dabei, TVs und PVs sind wohl auf Partner zugegangen, DEZENTRAL bei Produkten
+
+---> Softwareentwicklung ERP wird wachsen um 30 Personen
+KI-Migration sollten wir mit Christian Mohr besprechen
+
+Sehr viel Geld für Lizenzen -> will DM künftig lieber selbst bauen
+
+Bereich Enterprise Architektur (Auslöser: Data Leak, bessere Verknüpfung der Produkte) ausbauen
+Mehr Governance nötig, weniger Dezentralität
+-> Enterprise Architekt: wie können mehrere Produkte/TEams zusammenarbeiten?
+Architektur-Gruppe mit Coach Falk Engelmann -> Kontakt aufnehmen
+- [ ] Herrn Seitz zwei erfahrene Personen vorstellen, Lars Alvincz, Sebastian (Bauer, München)
+
+ERP 5. oder 7.10. Stephan Amps (Bereichsverantwortlich z.B: ELVIS) PZO Training? Kontaktdaten an Fahd
+Moritz dort auch drin
+
+Moritz fängt fest bei DM an, Patrik dauert noch, ungewiss
+
+Tendenz eher mehr Systeme bauen, mehr SW Entwickler, Skalierung ERP
+Jede Abteilung muss Agentische Factories bauen können
+Domänenspezifische Anteile werden benötigt, HArness
+als Bedarf
+
+Wie agentisch Bauen, wie billig unterhalten (Modelle)
+Mit KI Factories bauen und laufen lassen zum Geld sparen
+
+Produktschnitt wird sich ändern PZ2.0
+
+- [ ] Vernetzt euch dezentral! 6 strat. KI-Projekte
+- [ ] Mit dezentralen PVs austauschen
+- [ ] Regelmäßige strukturierte Treffen mit GBV?
+
+Zusammenarbeit Marketing/Events
+- [ ] Lokal in KA, nur Kunden, wie Agile Leader Summit bei DM
+- Referenzen und Testimonials nur gegem Gegenleistung
+
+Vorgehen:
+---
+Zur Enterprise-Architektur (Governance):
+(Stefan Mandel, Lars Alvincz, Dave? ...)
+
+PAper secorvo?
+- Email schicken diese Woche noch und nächste WOche zwei Kollegen vorstellen
+
+Sechs KI-Projekte 
+- In Kundenteams besprechen, wo stehen wir
+
+ERP
+- brands und elvis, (abst. ambs, erstkontakt durch fahd)
+
+- webshop
+- ki-migration (mohr) -> etwas zusammen machen bis dez. 26, ihm abieten was zu ki-migration zu machen
+
+# Abst. mit Kristian
+
+Termin mit Ilona war vorher.
+
+Grund Bauchgefühl wegen verschobenen Release aufgrund der Urlaubsplanug
+-> eingeräumt
+
+PV Laura Ziegler (Labelmanager)
+
+"Ist auf Beziehungsebene zerstört"
+
+# Kennenlernen Ilona Dikreiter (TV), 08.09., dmbrands
+digizale lösungen für dachbereiche
+pricing dambrands produktenwitcklung
+kollegen bei ctech
+alels vor sortiment
+eigene lösungen
+seit 3 ajrehn in team
+schon immerpricing
+wi ing
+
+fabina seit 1,5 jahren in dmbrands und dm
+software archtiektu  und entwickler
+prozesse für dm eigenmarkenentwicklung
+produktstanndaten aufnegmen und verwaltten mit leiferant austauschen
+cloud lösung in eigener herstellung
+-> kennt projekte und roadmap
+
+Planung - Geschäftsjahr
+---
+Veränderungsbedarf: wie ist denn der aktuelle Stand?
+
+auf menschlicher Ebene gut, aber Geschwindigkeit weil er alles verstehen will und "klassisch unterwegs ist"
+- GenAI Projekt: findet sich schlechter zurecht / Kontextwechsel schwierig
+- Backend / Frontend: 
+unterschiedliche Welten sind zusammengestoßen
+
+Bei Senior mehr _Proaktivität_ gefordert
+mehr sehen, tickets ziehen, nicht warten bis einer was sagt
+wir brauchen viel proaktivität; er ist oft unsicher, dm gibt arbeitsweise vor
+große Entscheidungen trifft er selten
+Urlaub und Krankheit waren ungünstig, aber danach auch nicht besser -> Einarbeitung, dann 5 Wochen raus, wieder neu ankommen
+
+Hat eher zugearbeitet, kein eigenes Thema getrieben
+als fabian urlaub hatte, lief nichts weiter
+
+das beide in urlaub waren und rollout verschoben werden musste.
+-> ok, wegen offener Fehlerkultur
+
+Frage voran es liegt. Umfeld? Ilona immer weg?
+Kompetent und persönlich ok.
+
+wenn neue frameworks angebunden werden, versuchte kristian immer alles zu verstehen.
+lieber schneller entwickeln
+achtet auf KLeinigkeiten
+
+Fehler dmtech
+Ausschreibung von zwei Projekten, mehr konzentriert auf Python Entwicklukng
+Kristian hatte wenig Erfahrung mit Typescript und X
+
+-> Beauftragung soll so bleiben vom Niveau
+-> jemand anderen mit viel Erfahrung
+-> Glücklich mit Lily, sehr aktiv, Erfahrung als PO
+
+---
+Markus
+---
+Wir können Proaktivität nicht von außen sehen
+Wir erwaretn auch Proaktivitöt von unseren MA
+Was kann er daraus lernen
+
+GEfühl, das die Produktivität zu niedrig ist
+- nicht der erste Grund
+
+Brücke geben Richtung dm
+
+
+Suchen
+---
+mehr Webentwiclkung
+Proaktiv
+Erfahrung in der Ecke
+vor Ort: KA plus, aber kein Muss, gut, dass er da war, 1x pro Woche vor Ort, auch S / Mannheim ok
+Zeitpunkt: flexibel ab 1.11. auch ok, Transitions und co. flexibel
+
+Ilona 11.-25.09. in Urlaub
+Kennenlernen auch ohne Ilona möglich
+--> Beauftragung fürs ganze Geschäftsjahr
+--> wir schauen, nach dem Urlaub den Namen an sie schicken für Vertrag 
+--> Findings an Fabian fabian.ternava@dm.de
+
+
+# Kennenlernen Li Yang Wu, 14.08.
+
+seir 9J >DMTECH
+seite 2 jahren crm team 
+eigenentwiclung mvp vorantreiben 
+wie skalieren, betriebsthemen
+aktuell am mitentwickeln
+iam 30 leute
+xxx identity produkt
+
+intern/extern -> 50%/50%
+Eigenentwicklung: 3 andrenas / 2 entw.
+
+# Vorstellungs Robin (Nachfolge für Markus N.) mit Jennifer Künstle 
+
+3 Teams, momentan am Wachsen
+2 Produkte bei Jenny, aber eigentlich drei: Kundenstamm und CIAM?
+Fokusteam, soll wieder weg, künftig ein Produkt
+Struktur ab 1.10 unklar
+-> Optimierung über Wert für Kunden/Gesamt-TECH
+
+
+
+
+
+# Gespräch mit DM
+
+Caro: 2 Jahre DM Tech, Projektleitung KI Chatbot, Wirtschaftsinformatik, Consulting & Projektmanagement
+Jolina, 2 Jahre Recrutiinhg, Informatik, IT Security KI Infrastruktur, Entwicklung Chatbot
+Christian: ählnlihc KI IT Secutiry
+Philipp: frisch bei DM, 15 jahre berufserfahrung Softwareentwicklung -> SW Archtitekt
+Malin: stellvt. Projektrolle, 4 ajhre DM, wirzschaftsinfo
+dominic: produktverantw. recruting
+martina: doppelrolle tv recruizing bereich people
+
+wo steht ihr, wo wollt ihr hin
+
+Chatbot für kariieseite mit ki
+erstzt faq chatbot
+infos von karriereseite (z.b. bewerbungsprozess) beantworten könnne
+fragen zu offenen stellen, stellenvergleich
+weiterentwicklungen in zukunft außerhalb des projekts (nutzer anmelden, nach bewerbungsstatus fragen), internationalisierung
+projekt schon gestartet, ab ende oktober mit entwicklung starten
+ab 1.3. live
+caroloina, jolina wollen mitentwickeln -> junioren
+philipp architekt, evtl. mitentwickeln
+
+unterstützung andrena
+- knwo how transfer an jolina und caroline
+- befähigung selbst betrieb umsetzung
+
+technik
+- philipp kennt karrieportal und wie man an die daten kommt
+- story block (content seiten)
+- aktuell keine suche angebunden -> inhalte aus story block anbinden; in azure ai search importieren
+- azure (job daten schon in azure)
+-> Daten liegen in Story Blog und Jobs
+   rein lesend
+-> Daten die rein lesend sind, hinter login, z.B. laufende Bewerbungen, sollen angebunden werden
+  über tool anbinden, nicht über LLM
+-> Schreibender Zugriff:
+  - Bwerbung einreichen, Termin ändern, Bewerbung zurückziehen
+- Soll erweiterbar sein
+  - Nicht nur Karriereportal, auch für dm.de mitdenken, bei Jobsuche über DM Seite weiterleiten
+- Es soll kein Modell traininert werden
+  -> RAG Ansatz
+
+  Bis 1.3. fertig
+
+  Infos abrufen
+  Stellenvergleiche 
+  
+
+ Sie suchen
+ - Beratung: KI Erfahrung, kennt Stolperfallen
+ - Erfahrene Entwickler, die Junioren aufschlauen
+ - Ende September/Anfang Oktober
+ - Remote, aber zum Start treffen und ab und zu treffen
+ - KI Infrastruktur von DM verwenden
+   - Azure Setup für Chatbot nicht vorhanden
+   - LLM hosten alles nicht vorhanden
+   - Absprache mit DM-AI
+
+Team besteht aus 6 Personen
+
+TechStack:
+- offen, lassen sich beraten
+  - Azure recht fix wegen Daten
+  - Python oder TypeScript als Idee
+   
+[ ] -> Wir suchen intern Personen und senden CVs zu
+Kennenlernen remote
+Profile an Caro
+
+So schnell wie möglich starten
+
+- Experten für Beratung abieten
+- Aktiv mitentwickeln im Team
+- Aufschlauen der beiden Juniors
+- evtl. Schulungen für 2 Personen [sie planen bereits interne Schulungen]
+  - Agile zusammenarbeiten
+  - Agentic Coding
+  - "Python Clean Code Schulung"
+  -> für kleine Gruppen lieber in der täglichen Arbeit, mini Workshop
+
+# --------------------------------------
+
+
+Dirk Tröndle 
+- Mehrere Team Tage im November mit Voranreise
+- Polen
+
+Frage:
+- Konditionen mit uns klären
+  - DL: 
+    - Anreise: Flug
+    - Reisezeit?
+  - DM: 
+    - Hotel?
+    - Arbeitszeit
+
+
+
+# Oliver Burkhardt
+
+Gründe Unzufriedenheit: 
+- Hypothese Projekt zu komplex, zu viele Services, Tools, Teams usw.
+- meldet sich (täglich) krank
+- will nicht mit Sabine sprechen
+- ist seit April/Mai in dem Projekt
+- weiß nicht ob andrena oder Projekt nicht passt
+- man braucht aber wohl so 6 Monate bis man reinkommt, laut Sabine
+- unklar, warum Sabine nicht dabei sein soll
+- vor ca. drei Wochen zum erstem Mal Jochen mitgeteilt, dass er kündigen will
+
+- unklar, warum er nicht früher auf uns zugekommen ist
+- Oli freistellen nach Kündigung
+- was sagen wir dem Kunden?
+
+
+# Anfrage zur Unterstützung bei der Entwicklung eines KI-Chatbots für dm, ETECH Caroline Hangen
+
+bei dmTECH im Team Recruiting treiben wir aktuell die Eigenentwicklung eines KI-Chatbots für die dm-Karriereseite (www.dm-jobs.de) voran und suchen dafür externe Unterstützung im Entwicklungsteam. Ihre Kontaktdaten haben wir von unserem Kollegen Niklas Murr erhalten.
+
+- Entwicklung bereits Ende September/Anfang Oktober starten 
+
+- wir gehen mit Lily in ein Gespräch
+
+
+
+# Kennenlernen Andre Pfohl
+
+- TV, Marketing Communication & Automation->Customer Data Services (CDS)->Customer Technology (CTECH)), 05.08.
+
+Ab 01.09. neuer TV?
+
+Theresa: Team Tag im Europaprk:
+- Sie bucht normal Stunden
+- Andrena zahlt Eintritt und co.
+-> Theresa soll einen ausgeben
+
+-Theresa fühlt sich wohl, DM Team findet sie auch gut
+
+
 # E-TECH Bereich, Christian Bosch BV
 
 ## Vorab Gespräch
@@ -37,8 +551,15 @@ Zunächst Workshop am 28.09.
 - Raum gebucht für den 28.09.
 - 26.08. vormittags Termin Abstimmung 09 Uhr, 2h
 - 15.09. nachmittags 15:00 uhr
----
 
+Projektunterstützung ab Mitte September starten
+- interne + andere ext. Kollegen
+- andrena weil sie PZO kennt und weiß was DM bewegt
+- Operating Modell Ideen
+- Zielsetzung noch nicht bekannt, erstmal Menschen finden
+- mind. 6-9 Monate Projektlaufzeit
+- Im Schnitt 2-3 Tage die Woche
+---
 
 Fokus Folgeworkshop am 28.09.
 - Mit Produktcanvas eigene Produkte einordnen bis 14.09. sammeln, sichten, ca. 25 Canvas
@@ -97,7 +618,7 @@ VMWare Abbau -> Potential für neues Team?
 
 # Kennenlernen Jennifer Künstle, 30.07., Dialogicum
 
-Erinnerung Protokoll an das Treffen mit Jennifer Kühnle bei dm im Dialog ICoM am 30.7.2026 mit dabei war mein Kollege Markus. Ich habe mich vorgestellt und wir haben besprochen, dass ich die eben übernehmen werde. Zweiter Punkt war die Jahresplanung. Dazu haben wir zunächst über die beiden Entwickler gesprochen, die wir bei dm in ihrem Bereich haben. Es ist noch nicht sicher, ob die verlängert werden. Sie wollen das erst mal intern noch abklären. Aber sie sind sehr zufrieden mit den beiden der Kunden sich vielleicht nicht zu verlängern, wäre einfach, um ein bisschen durch zu mischen das Team dazu zu bringen auch auf neue Teammitglieder oder neue Team Zusammensetzung zu reagieren, weil das Team damit Schwierigkeiten hat auf der anderen Seite spricht dagegen das Team zu ändern weil die beiden sind reingekommen. Das hat bisschen Unruhe reingebracht. Na eine Weile gedauert, bis sie angekommen sind. Sie sind jetzt gut aufgenommen daher muss man schauen wie sie es entwickelt. Das andere war unser Kollege. Markus wird rausgehen als Consultant Begründung war er ist zu teuer sie sind zufrieden mit ihm aber mit über 1600 € pro Tag ist er mit Abstand der teuerste Coach ganz dm wurde gesagt und sie hat da Probleme mit dem Budget. Dann braucht sie noch einen zweiten Coach für einen Großprojekt da startet Laufzeit anderthalb Jahre Projekt ist ja sehr wichtig, weil ihre persönlicher Erfolg dran hängt und sie auch an diesem Erfolg gemessen wird und Ärger bekommt, wenn das Projekt scheitert sie meinte in anderen Firmen würde sie rausgeschmissen werden wenn das Projekt scheitert bei DM eben nicht. Sie stellt sich jemand vor als Sparringspartner für den Projektleiter beziehungsweise die Projektleiterin. Das kann ein Coach sein. Ihre andere Idee ist ob zwei Monate lang etwas wie ein harter Hund der bisschen Projektleitung mitmacht und das Projekt aufsetzt reinkommen soll und danach dann eher der Coach, der die Teams verwaltet und dann eben das Coaching macht. Da müssen wir schauen sollte dann eben jemand Senior sein. Sie wurde gefragt von Markus welches Level ob Junior oder Senior oder professionell ebenfalls mit dem Preisschild dazu. So wie sie es angehört hat, muss es kein Junior sein und soll wahrscheinlich auch kein Junior sein daher könnte professionell vielleicht die richtige Wahl sein Senior wie schon gesagt wird ihr vermutlich zu teuer sein, aber dass sie aufgeschlossen. Wir sind so verblieben, dass wir jetzt mal schauen, wenn wir liefern können. Sie hätte die Person gerne schon ab September nein stimmt gar nicht die andere Person den Ersatz für Markus Neidhardt hätte sie gerne bis September, dass im September ein Übergang stattfinden kann, weil sie Ende September selbst in Urlaub geht für drei Wochen, glaube ich und halt eben das vorher geregelt haben will und nicht zurückkommen will und dann sitzt da jemand neues, den sie paar Wochen lang nicht gesehen hat. Sie gibt Bescheid wegen unserem beiden Entwicklern genau
+Erinnerung Protokoll an das Treffen mit Jennifer Künstle bei dm im Dialog ICoM am 30.7.2026 mit dabei war mein Kollege Markus. Ich habe mich vorgestellt und wir haben besprochen, dass ich die eben übernehmen werde. Zweiter Punkt war die Jahresplanung. Dazu haben wir zunächst über die beiden Entwickler gesprochen, die wir bei dm in ihrem Bereich haben. Es ist noch nicht sicher, ob die verlängert werden. Sie wollen das erst mal intern noch abklären. Aber sie sind sehr zufrieden mit den beiden der Kunden sich vielleicht nicht zu verlängern, wäre einfach, um ein bisschen durch zu mischen das Team dazu zu bringen auch auf neue Teammitglieder oder neue Team Zusammensetzung zu reagieren, weil das Team damit Schwierigkeiten hat auf der anderen Seite spricht dagegen das Team zu ändern weil die beiden sind reingekommen. Das hat bisschen Unruhe reingebracht. Na eine Weile gedauert, bis sie angekommen sind. Sie sind jetzt gut aufgenommen daher muss man schauen wie sie es entwickelt. Das andere war unser Kollege. Markus wird rausgehen als Consultant Begründung war er ist zu teuer sie sind zufrieden mit ihm aber mit über 1600 € pro Tag ist er mit Abstand der teuerste Coach ganz dm wurde gesagt und sie hat da Probleme mit dem Budget. Dann braucht sie noch einen zweiten Coach für einen Großprojekt da startet Laufzeit anderthalb Jahre Projekt ist ja sehr wichtig, weil ihre persönlicher Erfolg dran hängt und sie auch an diesem Erfolg gemessen wird und Ärger bekommt, wenn das Projekt scheitert sie meinte in anderen Firmen würde sie rausgeschmissen werden wenn das Projekt scheitert bei DM eben nicht. Sie stellt sich jemand vor als Sparringspartner für den Projektleiter beziehungsweise die Projektleiterin. Das kann ein Coach sein. Ihre andere Idee ist ob zwei Monate lang etwas wie ein harter Hund der bisschen Projektleitung mitmacht und das Projekt aufsetzt reinkommen soll und danach dann eher der Coach, der die Teams verwaltet und dann eben das Coaching macht. Da müssen wir schauen sollte dann eben jemand Senior sein. Sie wurde gefragt von Markus welches Level ob Junior oder Senior oder professionell ebenfalls mit dem Preisschild dazu. So wie sie es angehört hat, muss es kein Junior sein und soll wahrscheinlich auch kein Junior sein daher könnte professionell vielleicht die richtige Wahl sein Senior wie schon gesagt wird ihr vermutlich zu teuer sein, aber dass sie aufgeschlossen. Wir sind so verblieben, dass wir jetzt mal schauen, wenn wir liefern können. Sie hätte die Person gerne schon ab September nein stimmt gar nicht die andere Person den Ersatz für Markus Neidhardt hätte sie gerne bis September, dass im September ein Übergang stattfinden kann, weil sie Ende September selbst in Urlaub geht für drei Wochen, glaube ich und halt eben das vorher geregelt haben will und nicht zurückkommen will und dann sitzt da jemand neues, den sie paar Wochen lang nicht gesehen hat. Sie gibt Bescheid wegen unserem beiden Entwicklern genau
 
 ## 31.07. Gespräch mit Markus & Markus
 Markus N. informiert, Nachfolger dann Mitte September rein, weil Markus Ende August Urlaub hat
