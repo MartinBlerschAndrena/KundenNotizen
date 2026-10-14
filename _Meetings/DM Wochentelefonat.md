@@ -1,4 +1,103 @@
+# 2-Wochentelefonat 13.10.
+
+Themen Teilnehmer:
+- Dave: PZO mäßig viel los bei CTECH: Aufwand durch Einführung PZO, viel Unruhe
+  Webshop Checkoout Kollegen jetzt auch bei Dave (OCC)
+- Christian Janshon: Wie sieht es mit Referenzen holen aus (IAM)
+  --> Markus fragen
+--> Ruben in Terminserie aufnehmen
+
+
+- Themen dmKTT
+    - Die verschiedenen dmTECH-Projektteams stellen sich vor (Erstellung einer Projektübersicht in Powerpoint, anschließend Vorstellung)
+    - I Themen / Erfahrungaustausch
+        Welche KI Themen beschäftigen unseren Kunden? Z.B. Fabriken, Umgang mit Vibe Coding
+        Wie kann andrena KI-Themen treiben/unterstützen/den Kunden befähigen
+        Wie kommen wir in die sechs derzeit bei dmTech laufenden strategische KI-Themen rein oder wie bekommen wir davon mit?
+        Welche Plattformen zum Austausch gibt es? 
+        Wie erzeugen wir mehr Sichtbarkeit? Was hält uns davon ab sichtbarer zu werden?
+        KI-Austausch
+    - Vertriebliches
+        Stärkung unserer Position
+        Chancen, Risiken
+    - Open Space / Lean Coffee
+        Kundentag
+        Welche Projekte wäre für einen Kundentag interessant?
+        Was würde dmTech bei einem Kundentag interessieren?
+        Evtl. nochmal KI-Themen
+        ...
+    - 12 Uhr essen in der Kantine
+
+
+- Ruben gestartet am 12.10.
+- Eingereicht "Vakanz Migrationsprojekt Linux" (Migration Kassenrechner auf Linux)
+  Dominik Stober
+  -> war Svenja schon drin, Nico Ohnezart früher andrena, Lochman, cooles Team
+    •	Start ab Anfang 2027 oder ggfs. bereits im Dez 2026.
+  •	Dauer bis Ende Sep 2027.
+  •	4-5 Tage pro Woche. Hauptsächlich remote. Alle 1-2 Monate mal ein Tag vor Ort.
+
+  - Moritz Tiedje, Jan Bauer
+- Stelle von Kristian: Vivien abgelehnt, Duc wird ein Vorstellungsgespräch bekommen
+
+- Jan Baumann / Enterprise Architect, zweites kennenlernen 2-3h, Peter G. angeboten
+
+
+# Führung 09.10.
+
+--> Dave könnte Moritz auch wo anders platzieren.
+    Nachfragen, wenn das nichts mit dem Linux Projekt wird
+
+Aktuelle Themen bei dmTech:  CRA und Data Breach
+
+Themen dmKTT
+- Orga essen und co.
+- Vertriebliche unterstützungsmöglichkeiten, sensibilisieren
+- KI Themen, andrena soll treiben, wie einzahlen, befähigen, 6 strategische KI-Themen.
+  Plttformen und Möglichkeiten für Sichtbarkeit, was hält uns davon ab? mehr sichtbarkeit, fabriken, umgang mit vibe coding
+  -> austausch
+
+- Jan Baumann / Enterprise Architect, zweites kennenlernen 2-3h, Peter G. angeboten
+
+- Stelle von Kristian: Vivien abgelehnt, Duc wird ein Vorstellungsgespräch bekommen
+
+- Vereinbarung zum Lieferkettensorgfaltspflichtengesetz zwischen dmTECH GmbH und andrena objects ag unterzeichnet
+
+- DL Vertrag für Christian, Svenja und Jochen (Niklas Murr):
+  - bei Jochen gibts eine unerwartete Differenz zwischen vor-Ort und remote Satz. Bei ihm wollten wir (dann Du und Martin ;-)) ja noch über eine Tagessatzänderung ab Januar sprechen. Für den Zeitraum bis 31.12. gilt aus meiner Sicht der Stundensatz 128€/h. Passt für Dich?
+  - Das Volumen pro Nase ist nur 80 Tage, der Zeitraum aber das ganze Jahr. Da würde ich eher z.B. 192 Tage erwarten. Wie ist das gedacht?
+
+- Eingereicht "Vakanz Migrationsprojekt Linux" (Migration Kassenrechner auf Linux)
+  Dominik Stober
+  -> war Svenja schon drin, Nico Ohnezart früher andrena, Lochman, cooles Team
+    •	Start ab Anfang 2027 oder ggfs. bereits im Dez 2026.
+  •	Dauer bis Ende Sep 2027.
+  •	4-5 Tage pro Woche. Hauptsächlich remote. Alle 1-2 Monate mal ein Tag vor Ort.
+
+  - Moritz Tiedje, Jan Bauer
+
+- Ruben startet am 12.10.
+
+
 # DM Wochentelefonat
+- Leistungsnachweise
+
+- Ruben Gehring startet für Oliver am 12.10.
+- Nachfolge Kristian noch offen, Vivien hatte Vorstellungsgespräch
+
+
+Themen:
+Dirk: 
+- Bewerbungsgespräche für interne Stellen, eine wird wohl genommen werden, ab spätestens Februar starten
+- Bewerbungsgespräch für Stelle in Polen läuft
+
+
+
+
+Markus:
+---
+- Svenja fragt nach ihrer Verlängerung
+
 
 ## 15.09.26 Team
 

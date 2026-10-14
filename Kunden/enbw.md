@@ -1,3 +1,120 @@
+# Austausch Oleksandr / EnBW und Vincent Telefonat
+
+Beschlossen mit EnBW:
+- Startet am 12.10. mit zwei Wochen kostenloser Einarbeitung
+- Onboarding-Infos für Kennung schickt Martin an Karsten
+
+Problem Starkkraft:
+- noch nicht erreicht, aber E-Mail von Vincent:
+  - Oleksandrs Ersatz ist spätestens Ende Oktober verfügbar. 
+    Sie versuchen das gerade auf Mitte Oktober zu organisieren
+
+Fragen an Andreas:
+- Wer kommuniziert, dass Oleksandr ausgetauscht wird? Andreas oder Benjamin Ogaza?
+- Wer und wann kommunizieren, dass Teile des Teams gegen Jahresende/-anfang ausgetauscht werden
+
+- Sie möchten mit Andreas und ein paar anderen einen Termin ausmachen: 
+  - Inhalt: EnBW möchte klären, was die Probleme mit den Andrenas waren, damit wir nicht in dieselbe Problematik reinlaufen
+  - Andreas soll sagen, ob er den Termin ausmacht oder die EnBW-Seite (abklären, wer alles mit in den Termin soll: Antje?, Yvonne, ...)
+- Bitte von Karsten und Benjamin:
+  - Die andrenas sollen sich während des Onboardings gut mit dem Nachfolger abstimmen
+    - bessere Integration des Nachfolgers in das andrena-Team
+    - Test Manager soll sich besser mit Architekt abstimmen (und wir andrenas sollen das wohl erreichen)
+- Onboarding-Infos für Kennung schickt Martin an Karsten
+  - noch keine Daten von Starkkraftr
+
+
+
+
+# Austausch Oleksandr / EnBW und Vincent -> Infos von Andreas
+
+Platform Capabilities
+
+Wie kriegen wir einarbeitung und übergang hin
+mit vincent besproichen 14 tage übergang im oktober, kosten auf starkkraft
+koordinieren
+- vincent will wissen wie und wann
+
+karsten, mit architekt
+- so soll es laufen
+wie soll es laufen
+
+dann mit vincent besprechen
+kundenwunsch ist..
+
+dann in große runde
+-> so machen wirs an: mit karsten, dann mit vincent
+
+vertrag in die wegeleiten
+nur dieses jahr. in historie schauen wieviel... 17PT okt nov dez
+10 PT kost. einarbeitung.
+
+basti ist auch involviert
+
+# Abst. aktuelle Enwticklung Netze BW
+
+wie geht weiter bei NetzBau, Fr. Pokrievke meldet sich
+es ist ein portugiese gekommen, es sollen auch nicht mehr kommen
+
+
+
+# Abstimmung EnWiCore AI im SDLC mit den andrenas
+
+--> Markus fasst die Ergebnisse zusammen und schickt sie an Oliver
+    Markus kümmert sich um Zugänge
+
+- Wissen noch nicht, was sie mit KI erreichen können
+- sehr wasserfallartig, nicht agil
+- sehr wirr, unklar, was sie wollen
+
+Ziele des Kunden:
+- BA auf KI
+- Feature bauen
+- Was man auch noch machen sollte...
+- Wollen Konzeption haben
+
+Etwas ausprobieren mit Migration
+
+Wir übernehmen Steuerung
+Sie brauchen viel Untertstützung und Führung
+
+Nächster Workshop (Brainstorming)
+- Sortierung, schauen, was weiterverfolgt werden soll
+- Was ist denn schon alles da?
+- Was soll Neues dazu gebaut werden? Was soll fachlich geändert werden?
+- Wie bekommen sie neue Dinge rein, damit sie agenatisch umgesetzut werden können
+- Wo kann man altes und neues System verbinden (Schnittstellen)
+
+siehe Mural: https://app.mural.co/t/andrenaobjectsag8541/m/andrenaobjectsag8541/1785416979616/2a8fa7fdbd6879873c17b5c5cb755def01ef72a0
+
+Mögliche Themen für die nächsten Schritte:
+---
+KI Setup / Knowledge base (Tools)
+ZIEL: BAs und DEVs arbeiten im gleichen Setup auf einer geteilten Knowledgebase
+  -> Dokumente / Regularien als Kontext behandeln
+ZIEL: Eine Knowledge Base liegt vor und wird kontinuierlich aktualisiert.
+ZIEL: Das Konzept ist fertig (vermarktungbereit)
+ZIEL: KI ist ins Anforderungsmanagement integriert.
+  -> Change: Was bedeutet das für die BAs? Und DEVs?
+ZIEL: Ein Durchstich ist erstellt, der validiert, dass das Konzept trägt.
+
+Ziele geklärt
+---
+Erstes Backlog priorisiert
+Arbeitsmodus definiert
+  -> Wie organisieren wir uns?
+  -> Wieviel Kapa haben die EnBWler überhaupt? (DEV Kapa!!)
+Ersten Schritte geplant
+  -> Wen brauchen wir für welches Thema
+
+Oli will KI und ist bereit, dafür auch zu zahlen bzw. weiß, dass es Geld kostet, kämpft dafür
+
+Frage an Kunden: 
+- Bekommen wir Zugang zu Code, DevOps?
+- Wie handeln wir den Zugang zu KI Systemen (Subscription/API?)
+  -> billiger über Subscription, wer zahlt? 
+  -> wenn billig, dann würden wir mehr mit KI machen
+
 # Abstimmung EnWiCore AI im SDLC mit Peter 03.09.
 
 Markus hat noch Urlaub, kann bei Vorbereitung nicht dabei sein

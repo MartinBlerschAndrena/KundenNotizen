@@ -1,3 +1,458 @@
+
+# Vorbereitung dmTech KTT
+
+Themen dmKTT
+    - Die verschiedenen dmTECH-Projektteams stellen sich vor (Erstellung einer Projektübersicht in Powerpoint, anschließend Vorstellung)
+    - KI Themen / Erfahrungaustausch
+        Welche KI Themen beschäftigen unseren Kunden? Z.B. Fabriken, Umgang mit Vibe Coding
+        Wie kann andrena KI-Themen treiben/unterstützen/den Kunden befähigen
+        Wie kommen wir in die sechs derzeit bei dmTech laufenden strategische KI-Themen rein oder wie bekommen wir davon mit?
+        Welche Plattformen zum Austausch gibt es? 
+        Wie erzeugen wir mehr Sichtbarkeit? Was hält uns davon ab sichtbarer zu werden?
+        KI-Austausch
+    - Vertriebliches
+        Stärkung unserer Position
+        Chancen, Risiken
+    - Open Space / Lean Coffee
+        Kundentag
+        Welche Projekte wäre für einen Kundentag interessant?
+        Was würde dmTech bei einem Kundentag interessieren?
+        Evtl. nochmal KI-Themen
+        ...
+    - 12 Uhr essen in der Kantine
+
+To Dos
+- [ ] Ausdrucken der Projekt PPTs
+- [ ] Voebreitung Open Space
+- [ ] Vertrieblicches
+  - [ ] Konzept
+  - [ ] Flipcharts für 
+    - [ ] Chancen, Risiken
+    - [ ] Stärkung unserer Position
+
+
+
+# Vakanz Migrationsprojekt Linux
+
+-> Moritz und Jan Bauer (vorb. Elternzeit, ab 1.1., kann gerade keine Vorstellungsgespräche mitmachen)
+
+Mit Dave sprechen, der kennt das Umfeld
+Moritz könnte passen, Timm würde mit ihm sprechen
+
+
+# Gespräch mit Dave wegen Retro
+
+fühlt sich gedrängt von Fahd
+
+nicht gut, wenn Kollegen gehen und andrena verlassen
+es passiert, dass leute uns verlassen
+signal nach innen nicht zielführend, lieber bindung zu andrena fördern
+keine gefahr, dass alle gehen
+
+vermischung in abschlussmail nicht richtig
+
+
+
+# Gespräch mit Peter Guntermann, 02.10. wegen EA
+
+Treibt das Architekturthema bei andrena intern
+Kommunikationsstark
+Entwickler
+Domain Driven Design, nähe zu Fachbereich
+
+
+# Kennenlernen Christian Mohr
+
+Christian
+- ewig mir Andrena verbuinden
+wirtrschaftsInforamtik dhbw 
+karslruehr lebensversicherung
+hornbach sap entwickler
+dort agilität und anderna entwicklertag ca. 2011/12
+agilitätä wird groß
+bei hornbach agilität eingeführt
+dort dann TL webnshop team -> dort andfrena kennengelernt 2014 fahd, matthaios grund
+-> viele devs und agile coaches
+begeistert von andrena
+komplette sw entwickler bei hornbach 
+kulturell nicht mehr hornbach
+schutzglocke agilität
+dann zu dm, wegen kultur
+zu seitz ist das POS team, dort dann gerne hin, dasselbe machen
+kannte seitz schon von hornbach
+viele andrenas von hornbach rausgehalt, felix, dave
+POS -> OCC 
+tream topoligies
+flight level
+kevin vagen
+--> SKALIERUNG, alignment und loosly coupoled und 
+--> KI
+PZO
+
+Moritz und Patrick
+- wir wurden reingestoßen
+- wir haben alle draus gelernt
+- sollten schauen, dass wir in Zukunft besser umgehen
+
+Fahd und er Termin im November
+Versteht sich gut mit Fahd
+Benny auch bei ihm.
+
+
+
+# Abstimmung Unterstützung im Bereich Enterprise Architektur, 29.09.
+
+Teilnehmer:
+- Andrena:  Martin, Jan Baumann, Lars Alvincz
+- dmTECH:   Thomas Anderer, Falk Engelmann (Agile Coach mit Fokus auf agile Organisationsentwicklung)
+
+EVTL. Stephan Seitz
+-> Dann Fahd dazuholen
+
+Falk Engelmann: 
+Mit seinem Fokus auf agile Organisationsentwicklung, ist er Treiber des Experiments ''Product Owner als Team innerhalb einer Business Unit''. Durch seine in verschiedenen Branchen und Aufgaben fundierte Methoden-, Prozess-, und Führungskompetenz gibt er dem PO-
+Team die richtigen Werkzeuge an die Hand, Transparenz zu schaffen, sich als Team zu finden und strukturiert fachlichen Mehrwert zu erzeugen. Dabei setzt er immer wieder den Impuls, den Blick von Heute auch bereits auf mögliche Erfolgsfaktoren von Morgen zu richten. Durch die Arbeit mit elf Product Ownern optimiert er die Prozesse zur übergreifenden Zusammenarbeit, Priorisierung und der Definition gemeinsamer Ziele.
+
+E-Mail von Thomas Anderer:
+---
+Der Schwerpunkt liegt für uns weniger auf Agent- bzw. AI-Coding, als es im ersten Briefing vielleicht rübergekommen ist. Was uns aktuell wirklich fehlt:
+
+•	Enterprise-Architektur auf hoher Flughöhe: Übergreifende Themen sortieren, Zielbilder und Entscheidungskriterien entwickeln, statt einzelne Detailfragen zu lösen. Nicht als Einzelkämpfer, sondern im Team. 
+
+•	Technical Leadership statt Expert Development: jemand, der sich ein Bild von einem übergreifenden Thema verschafft, daraus ein klares Vorgehen für die 
+Organisation entwickelt, um Unternehmensarchitektur zu etablieren. 
+
+•	Erfahrung und Impulse aus unterschiedlichen Unternehmenskontexten, mit Blick auf 
+Unternehmensarchitektur. 
+
+•	Fingerspitzengefühl in der Zusammenarbeit mit unseren Teams, gepaart mit dem Mut, uns weiter zu pushen.
+
+Wen von den beiden würdet ihr uns für ein erstes Kennenlernen empfehlen? Und falls bei euch jemand noch besser auf diese Beschreibung passt, nehmt ihn gerne dazu.
+
+Lass uns das Gespräch dann direkt einplanen. Für den Anfang reicht vermutlich ein Remote-Termin von rund einer Stunde. Vermutlich würde ich den Kennenlerntermin allein (oder ggf. jemanden aus dem Team) machen, zum Beispiel nächste Woche Dienstag oder Mittwoch jeweils vormittags passen bei mir. 
+---
+
+
+Das Profil liegt zwischen Architektur und Agile Coaching 
+- keinen Architekten, sondern einen 
+-> Enterprise-Architektur-Coach mit Führungsanspruch. 
+   baut Enterprise Architecture (EA) als Disziplin in der Organisation auf
+   nimmt Teams mit 
+   Einzelne Architekturfragen soll er nicht selbst lösen.
+
+Jan: 50% bis Jahresende, vermutlich mehr
+Wir müssen in diesem Jahr gemeinsam schauen, wie wir ab nächstes Jahr weitermachen wollen.
+
+Fragen:
+- Wie ist die Orga-Struktur?
+  - Gibt es ein Team? Arbeitet der EA mit jedem Team einzeln oder gibt es dort dedizierte Ansprechpartner?
+- Wo wird der EA organisatorisch aufgehängt?
+- Was ist der scope des EA, dm-weit? C-TECH? CDS?
+- Soll die Orga struktur geändert werden durch den EA
+
+
+Standartfragen:
+----
+Expert Agile Coach (mindestens 8 Jahre Berufserfahrung) 1.610,- EUR
+Umfang: nicht festgelegt, muss aber sichtbar sein, verlässlich
+Ab wann: gerne ab sofort, zur not auch in 1 Monat
+Wie lange:
+Vor Ort: Berlin/KA/Leipzig/Pfalz
+
+Falk: Berliner, alles Mögliche, AUtomobilbau und Daten
+Selbsstständig, Scrum Master, Unternehmensberatung, Orga-Entwicklung, Exploration, wo unklar, wie es weitergeht, Produkt (PV)
+
+Thomas: Data Driven Service -> Creative?? Shopping, TAV Architekt/Consulting Rollen, seit 3 Jahren TV, übergreifende Architektur, TV+BV -> sehr viel dezentral
+Hoffentlich mehr zentral
+
+
+Teilzeitteam aus allen Bereichen aufgebaut
+Wieviel Kapa hat jeder
+Wir brauchen noch Unterstützung von außen
+Personen, die Kommunikation können
+- Developer Portal - 
+Engineering Stragtgie
+Dezentrale
+Data Mesh -> da gibts schon Menschen, aber wie skalieren auf Unternehmen
+Messaging: wie viele Technologien gibt es, brauchen wir mehr als eine, wie managen, alle dieselbe
+Tech Radar? gut?
+Domain Driven Design Workshop, warum nichth hier?
+Thomas und Falk arbeiten in Vollzeit
+-> schwierig den TEams zu sagen, das benutzt ihr nicht mehr
+   wir wollen Komplexität wegkapseln, nichts wegnehmen
+Es gibt kein Daily -> sollen mehr zusammenrutschen
+
+Pro Team ein Architekt?
+- TAVs: Architektur und Technikverantwortlicher in jedem Team, aber kein ganzer Architekt
+-> wird so empfunden, dass sie gegen das Team arbeiten wenn sie was weiter tragen
+Starke Widerstände gegen Hierarchie
+Wir haben nicht das Produktmanagement, aber mehr und mehr in RIchtung PZO
+50 Teams und 50 PVs
+Neue Struktur soll Spannungsfeld zwischen Fachbereich will was ebstellen und bekommt etwas Zukunftsfähiges geliefert
+Wir hatten schon externe Unterstützung, hat aber nicht gepasst
+-> war stark auf agentische Entwicklung, war hier nicht nötig
+-> war etwas anderes Gesucht
+
+-> brauchen mehr Menschen
+-> Produkt wird gerade erst gegründet, daher noch nicht viel Personen
+
+
+Idee Jan: Leuchtturmprojekt einführen, macht er aktuell bei KI Transformation
+- Domainen so, dass Teams sehr eigenständig wie DM, auch Widerstände bei Vorgaben
+Design Thinking Workshop hatte geholfen
+
+----
+Nette Kollegen, Falk offen und direkt, mit THomas gut zusammenarbeiten
+Risiko, dass Erwartungen zu hoch sind, 50 Teams und Selbstbestimmung Kernkultur
+
+Kernfrage: kann ich genug Kaoa bieten
+
+# Gespräch mit Christian Bosch, 28.09.
+
+Zwei Themen heute:
+- Geplante Projektunterstützung 
+- Abrechnung PZO-Workshops 
+
+1. Thema
+---------------------------------------------------------------------------------------
+Geplante Projektunterstützung 
+--> Entscheidung vertagt, stimmt sich noch ab
+    Meldet sich in ca. 7-10 Tage nochmal
+
+früher
+Projektunterstützung ab Mitte September starten
+- interne + andere ext. Kollegen
+- andrena weil sie PZO kennt und weiß was DM bewegt
+- Operating Modell Ideen
+- Zielsetzung noch nicht bekannt, erstmal Menschen finden
+- mind. 6-9 Monate Projektlaufzeit
+- Im Schnitt 2-3 Tage die Woche
+---
+Wir wollen ein Projekt gründen: Produktmanagement
+Ziele noch nicht komplett klar
+Wir haben nicht so viele Produkte und Eigenentwicklungen wie in CTECH, mehr plattformorientiert
+
+Etwas an C-TECH orientieren (Produkttypen), aber auch für E-TECH (welche Produkte haben wir, welche Veränderungen ergeben sich dadurch?, was heißt PZO für uns?)
+Eigene Vorgehensweise, aber auch schauen, was bei C-TECH gemacht wurde
+
+---
+
+Wie soll diese konkret aussehen?
+Ziele:
+Unklar wie viele Workshops
+Umfang PT:
+
+Unklar wann Beginn der Workshopreihe ist, Start:
+Dauer:
+
+Begleitung:
+Markus N.:  2-3 PT
+Michael ab 1.1. verfügbar, evtl. früher
+
+Idee: 
+- Kontinuität für Kunde (Markus/Michael)
+- Markus übernimmt bis Michael Zeit hat, ca. 50%, evtl. stärker
+
+Idee: Wir verkaufen DM, dass wir beide schicken, damit es kontinuierlich weiterläuft, bis Michael übernehmen kann.
+Markus und Michael halten weiterhin zusammen die PZO-Workshops.
+Die Begleitung soll perspektivisch Michael übernehmen, sobald er aus seinem aktuellen Projekt abgezogen werden kann (spätestens zum 01.01.). Bis dahin übernimmt das Markus. Da noch nicht bekannt ist, wann damit losgelaufen wird, kann sich Markus solange mehr auf EnBW konzentrieren. Michael kann ihn tageweise unterstützen.
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Einblick in PZO  geben
+WIr werden immer stablier, haben ein guten Gefühl in Sachen PZO für Organisation
+Besetzung aus versch. GEshchäftsbereichen
+Moritz ist ja auch da, evtl. mit im Projekt
+CTECH macht ja auch viel. daher keine Ahnung ob Moritz kommt
+-> Entscheidung vertagt, stimmt sich noch ab
+Meldet sich in ca. 7-10 Tage nochmal
+
+2. Thema
+---------------------------------------------------------------------------------------
+         
+Abrechnung PZO-Workshops 
+-> machen wir so weiter
+
+
+Produktzentrische Organisation bei ETECH mit Markus N. und Michael B.
+
+Den ersten PZO-Workshop mit Moritz und Michael haben wir über die Beauftragung mit 10 PT ohne Abnahmeverpflichtung abgewickelt (Angebotsnummer 2026-2405-5134-A2). 
+Diese Beauftragung war ursprünglich nur für diesen einen Workshop vorgesehen.
+
+Für die beiden Workshops am 30.09. und 02.10. inklusive Vor- und Nachbereitung sehe ich zwei Möglichkeiten:
+
+1. Wir rechnen sie ebenfalls über die bestehende Beauftragung ab. Damit würden wir die 10 PT überschreiten, was für uns kein Problem wäre.
+2. Wir erstellen euch ein neues Angebot für die beiden Termine.
+
+
+
+
+# Notizen für Leitungstreffen am 28.09.
+
+DM
+- Ein paar Verlängerungen sind noch offen, aber per Mail zugesagt
+- Übergabe läuft
+-
+- Seitz: Morgen Termin mit Thomas Anderer zwecks Enterprise Architect
+  - mit Jan Baumann und Lars Alvincz
+
+- Ersatz für Oli B. gefunden: Ruben Gehring
+- Ersatz für Kristian Ulshöfer vorgestellt, Entscheidung steht aus
+
+- Bosch: PZO Workshop laufen /PM Begleitung wird heute geklärt
+  - Angebot für PZO Workshops geschickt
+
+
+Kommunikation an Kundenteam Start Moritz und Patrik
+-> ICH
+
+Hallo dmTECH-Kundenteam,
+ab 1.10. werden Moritz und Patrik bei dmTECH als Festangestellter bzw. Freelancer starten.
+Moritz wird im Bereich CTECH unterwegs sein. Bei Patrik wissen wir noch nicht, wo er organisatorisch aufgehängt wird.
+
+
+
+EnBW
+- Verlängerung Rehm läuft
+- Markus W. zu DBB
+
+Besprechen Retro DBB mit Kollegen
+-> Termin macht Kollegin
+
+
+
+
+# Gespräch mit Fahd wegen Mail von Thomas Anderer
+
+- Welches Profil einreichen? Siehe Anforderungen Mail
+- 1h remote Termin: Kennenlerntermin 
+  zum Beispiel nächste Woche Dienstag oder Mittwoch jeweils vormittags passen bei mir. 
+
+-- Ambs: verschoben
+
+-- Simon Metzger
+   - geht auf dasselbe Angebot
+
+
+architekturstrageie der organisation bestimmt autonomiegrad der teams und produkte
+teams entscheiden momentan selbst, vor und nachteile
+
+führung und entscheidung nötig
+jan vor 8 jahren
+
+fachlich/technisch begründen können -> bei jan fraglich
+
+kombinations aus frühling und jan ausprobieren für 3 Monate?
+
+
+Idee Jan Baumann
+Vorbehalten bei Consultant
+nicht mehr state of the art
+
+   Thomas, TImm und ich
+
+
+Fragen für den Termin
+---
+was sind thomas aktien drin
+wo wird die person organisatorisch aufgehängt?
+gibt es ein team? macht er das mit jedem team
+soll die orga struktur geändert werden durch den EA
+was ist der scope des dm-weit? C-TECH? CDS?
+wie soll die enterprise architektur rauskommen?
+...
+Umfang? PT, in %
+Ab wann, vor Ort?
+
+Das Profil liegt zwischen Architektur und Agile Coaching 
+
+
+Abklären:
+- wer kommt von dmTECH Seite aus?
+
+
+
+
+
+
+Jan mitnehmen, Tandempartner mitnehmen
+
+
+Fragen Jan
+---
+Umfang, mehr als 50%
+wird nicht schnell gehen
+c-tech
+
+Di., 29.9. um 8:30 Uhr, 1h
+
+
+# Mail an Metzger 23.09.
+
+Mail versendet mit aktualisiertem Angebot.
+- Soll unterschrieben zurückkommen
+- abrechnen der Juli-Stunden antriggern
+
+----
+Vorbereitung Juli: 0,75PT (6h) - evtl. kostenlos für Kunden
+1. Workshop: ca. 1,5 Tage Person = 3 PTs mit Vor- Nachbereitung und Durchführung
+2. Workshop: ca. 2,5 bis 3 Tage Person = 5 bis 6 PTs mit Vor- Nachbereitung und Durchführung.
+
+
+6h rechnung schicken
+diekholz enrz
+Vertrag sagt 6PT
+- ENRZ Nummer
+Rechnung bis wann?
+Ansprechpartner Rechnung
+
+
+# Mit Stefan Abs sprechen
+hatten wir im dialogicum getroffen
+-> wir sollten mit ihm strategisch sprechen
+PZO
+
+mit fahd absprechen, ob ich ihm schreiben soll oder was wir machen.
+
+# Kennenlernen - Ralf Notheis (TV von Dave, OCC - Checkout Channels)
+
+- Weiterbeschäftigung Dave und David
+dave: wechsel von oc4 in isc
+beide verlängern
+selbe sätze
+
+ab 1.10. alle checkout systeme hier vereint
+
+TV in OCC Checkout
+3 Teams, 
+
+CLS - Checkout Loyality solutions: alle sin checkoutz 
+z.b. integration payback (auch kommunikaton)
+business facing - richtung pzo
+change von flacher produkthierarchie in richtige hierarchie
+
+isc - managed checkout solutions
+- daniel förster
+- alles mit bediente kasse 
+komponenten und enabling produkte arbeiten business facing produkten zu
+
+- oc4: omni channel checkout composing
+  - alles rund um occ enablen für org. veränderungen 
+  - dave ist da
+  - patrik war da und moritz
+  - siind bei uns im haus
+
+
+LCS - alles rund um loyalty
+- Teams/Produkte innerhalb customer connection (alles rund um kundenverbindung)
+- LCS soll in verantwortung für kundenverbindung im checkout prozess
+- Core Komponenten wie AUthentifizierung und KOmmunikation liegen sollen dort hin
+
+früher sw entwiockler und architekt
+war bei hornbach, kennt einige davon, wie dave
+TL bei hornbach
+
+
 # Vorstellungsgespräch Ruben Gehring
 
 Selfcheckout und Bedienkasse: Kunde bezahlen ermöglichen
@@ -6638,7 +7093,7 @@ sabine:
 # moritz witter
 
 13.11. digitale leute, dm wollte eh da hin
-    - herausforderungen, erste erfahrungen
+    - herausforderungen, erste erfahrungenengineers
     - 
 
 # frank schlageter

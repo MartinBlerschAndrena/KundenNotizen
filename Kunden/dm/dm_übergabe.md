@@ -9,6 +9,10 @@
 - Kathrin Dürrfeld (PV (unter Sergej), Customer Service Management (CSM)->Customer Service Solutions->Customer Connection->Customer Technology (CTECH)) in Training
 - Andre Pfohl (TV, Marketing Communication & Automation->Customer Data Services (CDS)->Customer Technology (CTECH)))
 
+- Ralf Notheis (TV von Dave, OCC - Checkout Channels)
+
+- Christian Mohr, 30.09.
+
 # Übergabe eingeplant
 
 - Ilona Dikreiter, dmbrands, 09.09. 15 Uhr remote
@@ -26,7 +30,6 @@ occ
 - markus bayer
 - luisa huwig
 - simon kappe
-- ralf notheis (TV von Dave)
 - christian rückert
 cc
 - felix schad

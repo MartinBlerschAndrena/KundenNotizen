@@ -1,30 +1,32 @@
 # ToDos
 
+# offen, wartend
+
+- [ ] Antwort: Vakanz Migrationsprojekt Linux
+- [ ] Antwort: Termin Duc
+ 
 ## dringend
 
-- [ ] Ausschreibung Thomas Rehm 
-- [ ] Workshop CN/Andrena
-      - Termine 
-      - Beauftragung prüfen
-- [ ] Konferenz in Bonn buchen
-- [ ] Retro organisieren für Leitungskreis -----------------------------------------
-       Teilnehmer:
-       - Fahd
-       - Timm
-       - Dave
-       - Sabine
-       - Benny
-       - (Daniel)?
-       - ich
-- [ ] Nachtragen, wen ich alles am Dienstag und Donnerstag getroffen habe in Pipedrive
+Auf Kunde zugehen (EnBW) Event Projekte mit Andrena zeigen
+-> DM NextID mit Christian Jahnson und S. Fontana
+
+- [ ] APM Sergej - nachfragen nach Urlaub
+
+- [ ] Firmenfitness
+
+- [ ] To DO Liste alle Verlängerungen dmTECH eintragen
+- [ ] Ruben in ToDo-Liste
+- [ ] Prolongation EnBW Aufträge
+
+
 
 ## Mitteldringend
 
-- [ ] Richard schreiben wegen Elternzeit Florian Hartmann / Ersatz Markus W.
 - [ ] DM KTT planen
-- [ ] Projekte mit KI Bezug taggen in Pipedrive
-- [ ] E-Mailvereinabrung Artur
+
 - [ ] Kommunikation mit DBB Team zwecks Retro / Austausch
+
+- [ ] KI-Austauschformat etablieren
 
  dmTECH
 
@@ -42,16 +44,60 @@
 ## Nicht dringend
 
 - [ ] Matthias Sünner, Matthias.Suenner@brunata-hamburg.de, 0176-16750119 -> SQI, I S I S
+
+- [ ] Trainingsunterlagen von Pierre anschauen
 - [ ] QR Code für VCard
-- [ ] Mit Andreas klären: wollen wir denn auch externe MA beim Kunden in KI schulen? So erzeugen wir Konkurrenz. (Hier: Anfangen mit PO)
-  - [ ] APM Sergej - nachfragen nach Urlaub
-  - [ ] Führungskraft von Kristian Feedback geben
-  - [-] Dave Infos zu  Enterprise Architect
+
+
 
 ------------------------------------------------------------------------
 
 ## erledigt
 
+- [X] E-Mailvereinabrung Artur
+- [X] Dana Vertrag unterschreiben
+- [X] Mit Duc sprechen
+- [X] Rückmeldung wegen Duc an dmTECH
+
+- [X] MIt Vivien reden
+- [X] FZI KI Tag Nachbereitugn - Den einen anschreiben
+- [X] Konferenz in Bonn buchen
+- [X] Retro Follow up
+-> Moritz und Jan Bauer (vorb. Elternzeit, ab 1.1., kann gerade keine Vorstellungsgespräche mitmachen)
+- [X] Abst. mit Timm wegen dmTECH
+
+
+- [X] Kristian Ulshöfer Antwort/Gespräch
+
+- [X] Mit Flint sprechen, dass wir Ersatz suchen
+- [X] Reisekostenabrechnung Corona Tests
+- [X] Kommunikation an Kundenteam Start Moritz und Patrik
+- [X] Fahd CN Fragen, ob Auftrag noch passt
+- [X] 5208 Fahd Neidhardt Birkholz Metzger
+
+- [X] Workshop CN/Andrena
+- [X] Christian Bosch Abrechnung PZO Workshops
+- [X] Gespräch mit Dave
+- [X] Peter Guntermann ansprechen wegen DM Enterprise Architect
+- [X] DM mitteilen, dass Peter mitmachen kann
+
+- [X] Raum buchen HAAP RETRO
+- [X] Cupra TüV [PRIVAT]
+- [X] Richard schreiben wegen Elternzeit Florian Hartmann / Ersatz Markus W.
+- [X] Phyllis, Zusammenfassung
+- [X] Daniel Förster / Ralf Notheis
+- [X] Nachtragen, wen ich alles am Dienstag und Donnerstag getroffen habe in Pipedrive
+- [X] Retro organisieren für Leitungskreis -----------------------------------------
+       Teilnehmer:
+       - Fahd
+       - Timm
+       - Dave
+       - Sabine
+       - Benny
+       - (Daniel)?
+       - ich
+- [X] Dirk Onsite: Metriken
+- [X] Ausschreibung Thomas Rehm 
 - [X] Zurückschreiben Markus Neidh.
 - [X] 2 Profile an DM / Nachfolge Christian: Vivien, Peter
 - [X] Daniel Bey : Ich habe eben mal geschaut und rein vom Budget werde ich ein paar PT (~3) zu früh das Budget ausschöpfen. Den Fall hatte ich bisher so noch nicht. Sonst waren eher so 2-3 PT über am Ende September.
