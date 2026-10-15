@@ -3,16 +3,18 @@
 # offen, wartend
 
 - [ ] Antwort: Vakanz Migrationsprojekt Linux
-- [ ] Antwort: Termin Duc
- 
+- [ ] Antwort: Sergej APM
+- [ ] Antwort: Stefan / KI-Trainigs vorstellen; er organisiert einen Termin
+- [ ] Jochen Winzen nach Mittwoch Thema "welche Personen könnten für den Kunden interessant sein? WIll der Kunde???" 
+
 ## dringend
 
 Auf Kunde zugehen (EnBW) Event Projekte mit Andrena zeigen
 -> DM NextID mit Christian Jahnson und S. Fontana
 
-- [ ] APM Sergej - nachfragen nach Urlaub
+- [ ] Nachfrage zweite Person bei Jan Baumann / EA bei dmTech
 
-- [ ] Firmenfitness
+- [ ] Anfrage Java Entwickler dmTEch
 
 - [ ] To DO Liste alle Verlängerungen dmTECH eintragen
 - [ ] Ruben in ToDo-Liste
@@ -24,7 +26,8 @@ Auf Kunde zugehen (EnBW) Event Projekte mit Andrena zeigen
 
 - [ ] DM KTT planen
 
-- [ ] Kommunikation mit DBB Team zwecks Retro / Austausch
+- [ ] Mit Daniel H. klären, ob das Model mit Schweiz 1 Tag im Monat auch nächstes Jahr weiter machbar ist.
+
 
 - [ ] KI-Austauschformat etablieren
 
@@ -43,8 +46,10 @@ Auf Kunde zugehen (EnBW) Event Projekte mit Andrena zeigen
 
 ## Nicht dringend
 
-- [ ] Matthias Sünner, Matthias.Suenner@brunata-hamburg.de, 0176-16750119 -> SQI, I S I S
+- [ ] Kommunikation mit DBB Team zwecks Retro / Austausch
 
+- [ ] Matthias Sünner, Matthias.Suenner@brunata-hamburg.de, 0176-16750119 -> SQI, I S I S
+- [ ] Firmenfitness
 - [ ] Trainingsunterlagen von Pierre anschauen
 - [ ] QR Code für VCard
 
@@ -53,7 +58,7 @@ Auf Kunde zugehen (EnBW) Event Projekte mit Andrena zeigen
 ------------------------------------------------------------------------
 
 ## erledigt
-
+- [X] Antwort: Termin Duc
 - [X] E-Mailvereinabrung Artur
 - [X] Dana Vertrag unterschreiben
 - [X] Mit Duc sprechen

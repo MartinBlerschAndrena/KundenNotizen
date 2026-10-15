@@ -1,3 +1,18 @@
+# Anfrage Vakanz Softwareentwickler/in (Java) für Checkout Loyalty Solutions (CLS)
+
+Ideen:
+- Fei Chen (ab Dezember)
+- Florian Ulrich
+- Vivien
+- Christian Helmer (ab 1.1.)
+
+Diskussion mit C.E.
+- Druck aufbauen bei Kunden zur Entscheidung ob es Budget gibt
+- Bereits 1 Monat auf unsere Kosten
+- Was würdest du machen bei einer Möglichkeit ihn bei dm unterzubringen?
+
+-> Anne schreibt dem Einkäufer von SVI eine Mail 
+-> Rückmeldung von Anne bis 16.10.
 
 # Vorbereitung dmTech KTT
 
