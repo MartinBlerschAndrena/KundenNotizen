@@ -2,32 +2,51 @@
 
 # offen, wartend
 
-- [ ] Antwort: Vakanz Migrationsprojekt Linux
-- [ ] Antwort: Sergej APM
-- [ ] Antwort: Stefan / KI-Trainigs vorstellen; er organisiert einen Termin
+- [-] Antwort: Sergej APM
+- [ ] technischer SM für dmTECH
 - [ ] Jochen Winzen nach Mittwoch Thema "welche Personen könnten für den Kunden interessant sein? WIll der Kunde???" 
 
 ## dringend
 
-Auf Kunde zugehen (EnBW) Event Projekte mit Andrena zeigen
--> DM NextID mit Christian Jahnson und S. Fontana
+- [-] Vertrag DM Niklas, den Daniel abgelehnt hatte wieder aufnehmen
 
-- [ ] Nachfrage zweite Person bei Jan Baumann / EA bei dmTech
+- [ ] Sprechen mit Richard, Jonas möchte etwas Neues (schon länger) und wir haben adequaten Ersatz gefunden und würden ihn austauschen
 
-- [ ] Anfrage Java Entwickler dmTEch
+Partenerverträge
+- Daniel hat Neues vom Anwalt freigegeben. Ablgleich, was verwendet werden darf
+- Arbeitszeiten.
+- Orientieren an bei EnBW Veträgen
 
-- [ ] To DO Liste alle Verlängerungen dmTECH eintragen
-- [ ] Ruben in ToDo-Liste
+- [ ] Thomas Wurth war bei Rainer per Teams
+      Reiner Sailer, Markant Services International (Speaker)
+
+- [-] CGI ansprechen, 713€
+  - EnBW kann sich das vorstellen, wenn wir den Vertrag gewinnen
+    
+
+- [ ] Die 80PT Beauftragungen von dmTECH bis Jahresende prüfen
+  - Lukas Brenk [Christian Mohr, Jennifer Künstle]
+  - Ronja Zimmermann
+
+- [-] Mit Philipp klären Daniel Heimpel ab sofort auf 80%
+  - Am Donnerstag, 12.11. beim Essen in der Denkfabrik
+
+- [-] Nachfrage zweite Person bei Jan Baumann / EA bei dmTech
+
+- [-] Nachfrage PZO Begleitung
+      Gespräch mit Christian Bosch, 28.09.
+      Geplante Projektunterstützung 
+      --> Entscheidung vertagt, stimmt sich noch ab
+          Meldet sich in ca. 7-10 Tage nochmal
+      --> angeschrieben am 02.11.
+
 - [ ] Prolongation EnBW Aufträge
-
 
 
 ## Mitteldringend
 
-- [ ] DM KTT planen
 
-- [ ] Mit Daniel H. klären, ob das Model mit Schweiz 1 Tag im Monat auch nächstes Jahr weiter machbar ist.
-
+- [ ] Mit Timm besprechen: wie kann man die KA-IT-Si benutzen, um beim Kunden dmTECH besser sichtbar zu werden?
 
 - [ ] KI-Austauschformat etablieren
 
@@ -37,27 +56,56 @@ Auf Kunde zugehen (EnBW) Event Projekte mit Andrena zeigen
   - [ ] Niklas Muhr (ERP) (Chef von Li Yang)
   -> wurde angeschrieben, warten auf Rückmeldung
 
-- [ ] Johannes Plieninger Budget erschöpft -> 1.6 PT Restbudget
-  - Kristiana Nischk, gerade in Urlaub. 
-  -> Benjamin Leicht wurde angeschrieben, auf Rückmeldung warten
-
 - [ ] AVV Entwurf Dominik Stober
    -> wurde angeschrieben, warten auf Rückmeldung
 
 ## Nicht dringend
 
-- [ ] Kommunikation mit DBB Team zwecks Retro / Austausch
 
 - [ ] Matthias Sünner, Matthias.Suenner@brunata-hamburg.de, 0176-16750119 -> SQI, I S I S
 - [ ] Firmenfitness
 - [ ] Trainingsunterlagen von Pierre anschauen
-- [ ] QR Code für VCard
-
 
 
 ------------------------------------------------------------------------
 
+
+
+
+
+
+
+
 ## erledigt
+
+
+
+
+
+
+
+- [ ] Kommunikation mit DBB Team zwecks Retro / Austausch
+
+- [ ] Johannes Plieninger Budget erschöpft -> 1.6 PT Restbudget
+  - Kristiana Nischk, gerade in Urlaub. 
+  -> Benjamin Leicht wurde angeschrieben, auf Rückmeldung warten
+
+- [x] Schulungen WEKA: https://andrena.weka-webtrainer.de/ilias.php?baseClass=ilrepositorygui&cmdNode=z0:ri&cmdClass=ilobjrootfoldergui&ref_id=1&item_ref_id=0
+
+- [X] Philipp Pütz anrufen: Jan bis Januar zu dmTECH
+- [X] Nachlaufen: Nischk Consultant --> ordnet noch, was sie brauchen, kommt bei Bedarf auf mich zu
+- [X] mit Daniel besprechen: Pipedrive glatt ziehen
+- [X] DM KTT planen
+- [X] Ruben in ToDo-Liste
+- [X] Antwort: Stefan / KI-Trainigs vorstellen; er organisiert einen Termin
+- [X] Mit Daniel H. klären, ob das Model mit Schweiz 1 Tag im Monat auch nächstes Jahr weiter machbar ist.
+  - Er will in die Schweiz oder neben die Schweiz ziehen, da seine Frau in der Schweiz einen Job annimmt
+
+- [X] Markus / Anfrage DB Frankfurt KI Peter
+- [X] Markant: Sustainability Data Check: https://m.markant.com/platform/extensions/supplier-view
+- [X] Anfrage Java Entwickler dmTEch
+  - [X] Marcel Jung, Manuel Butz, Fei Chen
+
 - [X] Antwort: Termin Duc
 - [X] E-Mailvereinabrung Artur
 - [X] Dana Vertrag unterschreiben

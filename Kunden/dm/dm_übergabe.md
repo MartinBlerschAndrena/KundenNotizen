@@ -8,15 +8,15 @@
 - Jennifer Künstle, 30.07. (TV, SucheLoyalty Core Services->Customer Connection->Customer Technology (CTECH))
 - Kathrin Dürrfeld (PV (unter Sergej), Customer Service Management (CSM)->Customer Service Solutions->Customer Connection->Customer Technology (CTECH)) in Training
 - Andre Pfohl (TV, Marketing Communication & Automation->Customer Data Services (CDS)->Customer Technology (CTECH)))
-
 - Ralf Notheis (TV von Dave, OCC - Checkout Channels)
-
 - Christian Mohr, 30.09.
+- Ilona Dikreiter, dmbrands, 09.09. 15 Uhr remote
+- Kristina Nischk, dialogicum, 20.10.
+
 
 # Übergabe eingeplant
 
-- Ilona Dikreiter, dmbrands, 09.09. 15 Uhr remote
-- Thomas Anderer bis 15.09. in Urlaub... -> siehe Mail vom 18.08.
+- Thomas Anderer bis 15.09. in Urlaub... -> siehe Mail vom 18.08.; bereits so kennengelernt wegen Jan / Enterprise Architect
 
 # Übergabe fehlend
 - Dana Duch (TV von Dirk)
@@ -36,3 +36,35 @@ cc
 iam
 - niklas murr
 
+
+
+# Kollegen bei dmTECH
+
+David Burkhart
+Daniel Förster
+Stefan Dürrfeld
+Daniela Ruchser
+Dirk Tröndle
+Sabine Oboril
+Daniel Bey
+Johannes Plieninger
+Benjamin Seidler 
+Christian Jansohn
+Svenja Fontana --> Mannheim
+Jochen Reuter
+Lilli Huss
+-- Kristian Ulshöfer --> Stuttgart; Duc Vorst.gespr.
+Ronja Zimmermann
+Lukas Frederik Brenk
+Markus Spörl --> München
+Theresa Full --> Frankfurt
+Josua Münch --> Mannheim
+
+Markus Neidhardt
+Michael Battenfeld
+
+Projekte mit KI:
+- IAM (Reuter, Fontana)
+  - Identity Access (Rechteverwaltung MA) Full agentic, Spec-driven, Kotlin
+- ERP / DM Brands (Ulshöfer, Huss)
+  - dm Eigenmarken, neue Produkte KI, python

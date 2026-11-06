@@ -1,3 +1,52 @@
+# Anfrage: Technical Agile Coach / Scrum Master für Eigenentwicklungen (Carolin Groba Castro)
+
+-> Sie sucht einen SM, der auf den Prozess schaut, AI-native denkt und AI in den Scrum Prozess integrieren kann
+Sollte technisch das ganze verstehen, soll/muss aber nicht selst programmieren
+---> Ich melde mich bei ihr mit 2 Profilen
+
+
+Umfang (Vollzeit oder Teilzeit), Start, Laufzeit, remote oder vor Ort
+- Ende November oder ab sofort, zur Not auch später
+- In Vollzeit, 50% in diesem Projekt, auch retros nebendran
+- viel remote, einzelne workshop tage vor ort, team teilweise verteilt, 1-2 tage vor ort im monat
+
+Umfeld:
+- Thema Projektmanagement
+- Leistungserfassung, PM Managmentanwendung
+- System eingekauft, ist schlecht, lieber Eigentwicklung
+- Projektteam exitiert, 1 Verwantw., 1 PO, 1 UX, 1 Technical Lead, 2 Entwickler, 1 Fachkollegin
+- einzelne agents unterstützenm bereits
+- muss auch tiefer fliegen können
+
+--> Wunsch auf Prozess schauen, sehr AI native denken, AI Factory wird aufgebaut
+
+Carolin war selbst scrum Master
+
+# Verfügbarkeit Duc
+
+~~ Ersatz für Kristian ~~~
+
+Start Duc:
+- Nebenbedingung: Angebot bei anderem Kunden eingereicht über 5PT, wahrscheinlich im November und dann verteilt auf 2-3 Wochen
+- Ansonsten ab sofort verfügbar, wie besprochen
+  - Kapazität: momentan 60% (ca. 10 PT/Monat), 
+    ab 24.12. auf 32h / 80% (ca. 13 PT/Monat)
+
+Wie Überagabe?
+- 09.11.-15.11. parallel
+
+Wie lange parallel
+
+
+
+Trianings Scrum
+PSM 1 / 9.-10.12
+09.11. Frühbucherrabatt.
+-> gutes Anbgebit
+
+
+
+
 # Anfrage Vakanz Softwareentwickler/in (Java) für Checkout Loyalty Solutions (CLS)
 
 Ideen:
@@ -45,6 +94,9 @@ To Dos
     - [ ] Chancen, Risiken
     - [ ] Stärkung unserer Position
 
+
+Vielleicht nochmal kurz zur strategischen Wichtigkeit. Fahd hat mit Herrn Seitz bei einem Strategiegespräch die Tür für die Enterprise Architektur Anfrage geöffnet, was ein neuer und wichtiger Bereich bei dmTech wäre.
+Jan ist schon beim zweiten Vorstellungstermin, um das Team kennenzulernen und am Architekturtag teilzunehmen. Ihn jetzt auszuwechseln würde beim kunden vermutlich nicht gut ankommen.
 
 
 # Vakanz Migrationsprojekt Linux
