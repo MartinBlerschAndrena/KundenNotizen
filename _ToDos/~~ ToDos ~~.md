@@ -12,8 +12,7 @@
 
 - [ ] Sprechen mit Richard, Jonas möchte etwas Neues (schon länger) und wir haben adequaten Ersatz gefunden und würden ihn austauschen
 
-Partenerverträge
-- Daniel hat Neues vom Anwalt freigegeben. Ablgleich, was verwendet werden darf
+- [-] Partenerverträge, - Daniel hat Neues vom Anwalt freigegeben. Ablgleich, was verwendet werden darf
 - Arbeitszeiten.
 - Orientieren an bei EnBW Veträgen
 

@@ -1,3 +1,11 @@
+# Wochentelefonat 06.11.26
+
+- Zum Jahresabschluss: gerne Team mit Externen einladen, andrena zahlt
+  -> Kundenbindung, soziales
+  - Partner kein Problem
+  - Freiberuflicher über große Firmen auch ok
+  - Mitbewerber nicht in Ordnung -> separat mit Andreas besprechen
+
 # Wochentelefonat 23.10.26
 
 Moritz:
