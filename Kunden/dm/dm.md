@@ -1,8 +1,18 @@
+# Vertrag Kristian/Duc/Lilli
+
+- Lilli mit 100%?
+- Lilli als Senior?
+  - bereits vorgefühlt von Markus, Start 2027?
+- Duc 60% = 20, nicht 24
+- Tage passen, evtl. bei Lilli 100% dann höher: 208
+
 # Anfrage: Technical Agile Coach / Scrum Master für Eigenentwicklungen (Carolin Groba Castro)
 
 -> Sie sucht einen SM, der auf den Prozess schaut, AI-native denkt und AI in den Scrum Prozess integrieren kann
 Sollte technisch das ganze verstehen, soll/muss aber nicht selst programmieren
 ---> Ich melde mich bei ihr mit 2 Profilen
+
+
 
 
 Umfang (Vollzeit oder Teilzeit), Start, Laufzeit, remote oder vor Ort

@@ -1,3 +1,43 @@
+# Führung 06.11.
+
+SBNext - Evtl. Chancen, da länger dauert und Druck da sein könnte
+
+
+Personell:
+- Duc startet am Montag, 9.11. / Kristian bis 13.11.
+  - Abstimmung mit Ternava, Fabian <Fabian.Ternava@dm.de>
+- Vorstellungsgespräche
+  - Marcel Jung (Notheis, Ralf <Ralf.Notheis@dm.de>), 
+    - Softwareentwickler/in (Java) für Checkout Loyalty Solutions (CLS).
+    - heute
+    -> ein externer Angebonte, Gerüchte, dass vielleicht doch intern besetzt werden soll
+  - Jan Bauer
+    - Vakanz Migrationsprojekt Linux (Migration Kassenrechner auf Linux)
+    - 17.11.
+  - Robin und Andreas Kaffer eingereicht
+    - technisch versierten Agile Coach / Scrum Master 
+    - Carolin Groba Castro ETECH | Project Management+
+
+- Jan Baumann war beim Architekturtag, war ganz gut 
+  - Er kann bis Ende Dezember/im Januar noch mit 80-90%, danach wohl raus
+
+- Nischk, Kristina <Kristina.Nischk@dm.de> angeschrieben wegen Consulting Stelle
+  -> noch unklar, ob wir intern oder extern einstellen wollen
+
+  - Moritz Tiedje bei OCC? erst fragen ob er das will, er wollte raus
+
+- Nachbereitung dm KTT fehlt
+
+- Nischk bei Konferenz? EHI
+
+- Peter Dev Day -> DM macht das selbst
+- Anthropic hat eine Session im CTECH Camp gehalten
+
+- Fabriken bauen kommt nicht voran. Begriff Fabrik wird unterschiedliche verstanden.
+  
+- Visual AI: In GF2027 nicht mehr externe Deutsche, sondern polnische Entwickler [Daniel Bay]
+
+
 # 2-Wochentelefonat 13.10.
 
 Themen Teilnehmer:

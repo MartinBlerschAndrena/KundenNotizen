@@ -10,6 +10,8 @@
 - Andre Pfohl (TV, Marketing Communication & Automation->Customer Data Services (CDS)->Customer Technology (CTECH)))
 - Ralf Notheis (TV von Dave, OCC - Checkout Channels)
 - Christian Mohr, 30.09.
+  - Fahd war mit ihm am 03.11.26 essen:
+    - Christian interessiert sich für KI und macht selbst viel damit, bspw. Apps zu Pizza und Wein
 - Ilona Dikreiter, dmbrands, 09.09. 15 Uhr remote
 - Kristina Nischk, dialogicum, 20.10.
 
@@ -53,7 +55,7 @@ Christian Jansohn
 Svenja Fontana --> Mannheim
 Jochen Reuter
 Lilli Huss
--- Kristian Ulshöfer --> Stuttgart; Duc Vorst.gespr.
+Duc -- ehemals Kristian Ulshöfer 
 Ronja Zimmermann
 Lukas Frederik Brenk
 Markus Spörl --> München
