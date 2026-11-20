@@ -4,33 +4,44 @@
 
 - [-] Antwort: Sergej APM
 - [ ] technischer SM für dmTECH
-- [ ] Jochen Winzen nach Mittwoch Thema "welche Personen könnten für den Kunden interessant sein? WIll der Kunde???" 
+- [ ] Nachhaken Training DM Early Bird PSM 9.12. -> Ilona Dikreiter angeschrieben am 18.11.
 
 ## dringend
 
-- [-] Vertrag DM Niklas, den Daniel abgelehnt hatte wieder aufnehmen
-
-- [ ] Sprechen mit Richard, Jonas möchte etwas Neues (schon länger) und wir haben adequaten Ersatz gefunden und würden ihn austauschen
-
+- [-] CGI ansprechen, 713€
+  - EnBW kann sich das vorstellen mit Miriam über uns, wenn wir den Vertrag gewinnen
+    Gespräch mit CGI vom 12.11.
+    - [ ] Ich schicke ihnen den Vertragsentwurf zu
+    - Alte und neue Verträge miteinander abgleichen
 - [-] Partenerverträge, - Daniel hat Neues vom Anwalt freigegeben. Ablgleich, was verwendet werden darf
 - Arbeitszeiten.
 - Orientieren an bei EnBW Veträgen
 
-- [ ] Thomas Wurth war bei Rainer per Teams
-      Reiner Sailer, Markant Services International (Speaker)
+- [ ] Mit Fahd sprechen über Michael Battenfeld
+   - Die Deka möchte gerne verlängern für 2027 - ich würde gerne asap eine Antwort senden. Wenn ihr ihn braucht, könnte ich ihn zum 01.06.27 rauszunehmen, Oli
+   - eigentliche Beauftragung bei DM weswegen wir Ihn rausziehen wollten wird ja nix.
+   - Kandidat als Product Partner für unser neue Produkt.
 
-- [-] CGI ansprechen, 713€
-  - EnBW kann sich das vorstellen, wenn wir den Vertrag gewinnen
+
+- DM Verlängerungen nach Vertrag in ToDoListe
+
+- [ ] Mit Fahd sprechen wegen dmTECH EA andere Coaches schicken
+- [ ] Feedback an Jan
+
+- [ ] Reiner Sailer Zu-/Absage
+
+- [-] Vertrag DM Niklas, den Daniel abgelehnt hatte wieder aufnehmen
+
+- [ ] Nachbereitung Messe
+- [ ] Nachbereitung dmTECH Kundenteamtreffen
     
+    
+- [ ] schauen, ob alle bei dmTECH einen neuen Vertrag haben, siehe Daniel Förster
 
-- [ ] Die 80PT Beauftragungen von dmTECH bis Jahresende prüfen
+- [-] Die 80PT Beauftragungen von dmTECH bis Jahresende prüfen
   - Lukas Brenk [Christian Mohr, Jennifer Künstle]
   - Ronja Zimmermann
-
-- [-] Mit Philipp klären Daniel Heimpel ab sofort auf 80%
-  - Am Donnerstag, 12.11. beim Essen in der Denkfabrik
-
-- [-] Nachfrage zweite Person bei Jan Baumann / EA bei dmTech
+  - Jenni angeschrieben am 12.11.
 
 - [-] Nachfrage PZO Begleitung
       Gespräch mit Christian Bosch, 28.09.
@@ -43,7 +54,6 @@
 
 
 ## Mitteldringend
-
 
 - [ ] Mit Timm besprechen: wie kann man die KA-IT-Si benutzen, um beim Kunden dmTECH besser sichtbar zu werden?
 
@@ -82,7 +92,22 @@
 
 
 
-
+- [X] Ausschreibung EnBW
+  - 20% Effizienzsteigerung durch KI 
+  - In Kurzkonzept sagen warzum wir das können
+    in EnWiCore bei Angebotsrunde 2 gibts da was
+    warum wir das können und wie wir das messen
+    -> siehe EnWiCore
+- [X] Rückmeldung Thomas Anderer dmTECH EA
+  - angeschrieben am 16.11.
+- [X] Mit Philipp klären Daniel Heimpel ab sofort auf 80%
+  - Am Donnerstag, 12.11. beim Essen in der Denkfabrik
+- [X] Liste Wildpark anschauen und einladen
+  - [X] Markant Sailer auch
+  -> Hr. Seitz fehlt
+- [X] Sprechen mit Richard, Jonas möchte etwas Neues (schon länger) und wir haben adequaten Ersatz gefunden und würden ihn austauschen
+- [X] Senioritäten eintragen EnBW in ToDo Liste bis Fr. 13.11.
+- [X] Markus N. Auftrag auf 75PT erhöhen
 - [ ] Kommunikation mit DBB Team zwecks Retro / Austausch
 
 - [ ] Johannes Plieninger Budget erschöpft -> 1.6 PT Restbudget

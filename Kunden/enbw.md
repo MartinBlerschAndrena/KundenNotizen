@@ -1,3 +1,28 @@
+# Kennenlernen Natalia / Richard, 17.11.
+
+sichere deployments? prod/test -> staging
+was wichtig in agile zusammenarbeit?
+wie setzt du aktuell AI ein?
+
+# Abst. EnWICore
+
+- BAs pflegen selbst eine Knowledge Base
+- Sollen nichttechnische User GIT lernen? In Abstimmung
+- Oli P. will das sie in die weiteren Teams ausstrahlen (alle 30 BAs+Entw.)
+  am liebsten auch in Kredi Teams
+- Vorschlag: 2-3 Wochen pro Team begleiten
+- Ein oder mehrere Wissensbases sollen entstehen, Carsten versteht, dass das benötigt wird
+- Wir können mit einer 1-1 Migrations starten (Metareading) 
+- Plan: Mitte Dezember portiert
+- Budget für Tokenm vorhanden
+Quali
+- Anforderunen werden mit Akzeptanztests abgesichert (3000 Tests)
+- autom. Prüfung von Metriken mit Sonarqube, Nexus IQ, z.B . zykl. Komplexität
+Sicherheitsrichtlinien
+
+-> 1 DEV finden für Meta- Reading, Peter gleist ihn auf und zieht sich dann zurück
+
+
 # Austausch Oleksandr / EnBW und Vincent Telefonat
 
 Beschlossen mit EnBW:

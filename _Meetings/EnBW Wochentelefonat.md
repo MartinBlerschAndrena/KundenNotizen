@@ -1,10 +1,41 @@
+# Wochentelefonat 13.11.26
+
+- Felix
+- Moritz
+  - Team plant, dass du weg bist: moritz will wissen wann er geht
+  - Andreas: wann kommunizieren wir wer wann geht
+- Tobias: planung, was kommuniziert wer wann raus
+
 # Wochentelefonat 06.11.26
 
+Vertriebliches:
 - Zum Jahresabschluss: gerne Team mit Externen einladen, andrena zahlt
   -> Kundenbindung, soziales
   - Partner kein Problem
   - Freiberuflicher über große Firmen auch ok
   - Mitbewerber nicht in Ordnung -> separat mit Andreas besprechen
+- Werbung ALS
+- 30.11. Business Christmas, Mercedes Innovations Vortrag
+  - Schauer, Reschke
+- EnWiCore Gespräche laufen
+- Jahresfeedbackgespräche werden vorbereitet
+
+Themen:
+- Urs:
+  - Bestellung sei fertig gemacht
+  - 21.11. Wochenendarbeit und Bereitschaft: wie abrechnen?
+    Bereitschaft oder Wochenendarbeit?
+- André:
+  - Wie geht es nächstes Jahr weiter?
+    - Pascal raus, Christian bleibt, Olaf muss man noch schauen
+    - Ziel Olaf soll weiter drin bleiben
+- Anne:
+  - Anne hat nur 51PT für das ganze Jahr -> sollte reichen
+
+- Jochen
+  - 24.11. Objektforum in Stuttgart, Jochen berichtet von KI shoring vs. nearshoring
+  - kann auch beim Get-together iN KA den Vortrag anbieten
+
 
 # Wochentelefonat 23.10.26
 

@@ -1,4 +1,42 @@
 # Führung 06.11.
+  
+- Jan Bauer genommen
+  - Vakanz Migrationsprojekt Linux (Migration Kassenrechner auf Linux)
+  - startet zum 1.1., Beginn des Onboardings vor Weihnachten
+
+- Ronja und Freddie bei dmTECH
+  - Ronja wird in einem anderen Projekt bei dmTECH weiterbeschäftigt
+  - Freddie wird nicht weiter beauftragt und scheidet zum 31.12. aus
+ 
+- Marcel Jung (Notheis, Ralf <Ralf.Notheis@dm.de>), 
+    - kann erst zum 01.01. starten
+    - Ralf will Bedenkzeit bis Ende November, Vergleichen der Angebote
+- Andreas Kaffer hatte Vorstellungsgespräch
+
+- Jan Baumann
+komplizierte Situation, Thomas war beim zweitgespträch nicht dabei
+Mehrere Faktoren gaben den Ausschlag
+- wir haben jan nicht gut in den mittelpunkt stellen können
+  - eindruck: könnte passen aber hilft er uns wirklich?
+    positiv aber nur leicht positiv
+  - einige die jan kennen, die waren sehr polarisierend, stark in die ein oder andere richtung
+  - potential wäre da, aber lieber neues gesicht, jan schon bekannt
+
+Feedback an Jan
+- kann nichts anders machen
+
+Bisher keine anderen Partner angefragt -> jetzt alternativen prüfen
+
+Takeaway Vertrieb:
+- leute auf dem level gerne nochmal anbieten, er schickt dazu etwas raus
+am liebsten jemanden, der EA bei einem anderen kunden war
+- Im Januar dann eventuell jemanden, der das dann umsetzt, er meldet sich dazu dann bei uns.
+
+
+
+
+
+# Führung 06.11.
 
 SBNext - Evtl. Chancen, da länger dauert und Druck da sein könnte
 

@@ -1,3 +1,215 @@
+# Feedback zu Jan dmTECH / EA mit Thomas Anderer, 19.11.
+
+komplizierte Situation, Thomas war beim zweitgespträch nicht dabei
+Mehrere Faktoren gaben den Ausschlag
+- wir haben jan nicht gut in den mittelpunkt stellen können
+  - eindruck: könnte passen aber hilft er uns wirklich?
+    positiv aber nur leicht positiv
+  - einige die jan kennen, die waren sehr polarisierend, stark in die ein oder andere richtung
+  - potential wäre da, aber lieber neues gesicht, jan schon bekannt
+
+Feedback an Jan
+- kann nichts anders machen
+
+Bisher keine anderen Partner angefragt -> jetzt alternativen prüfen
+
+Takeaway Vertrieb:
+- leute auf dem level gerne nochmal anbieten, er schickt dazu etwas raus
+am liebsten jemanden, der EA bei einem anderen kunden war
+- Im Januar dann eventuell jemanden, der das dann umsetzt, er meldet sich dazu dann bei uns.
+
+# Vorstellungsgespräch Andreas Kaffer dmTECH
+
+Andrea 9 Jahre bei dm
+Portfoliomanager CTECH Digitital Customer Experience (meinDM App,. online SHop)
+übergreifende Projekte
+Auch bei Caolin im Produktteam, PM-Themen mit Ina zusammen verantwortlich für DM Projects
+PM Prozesse und WOrkstreams ablösen
+
+Ina, Projektverantwortliche, seit 3 Jahren bei DM, Saarland
+davor bei Caro im Team und PRodukt
+Können entlich Visionen umsetzen
+Eigenentwicklung als PO getrieben, jetzt größeres TZeam, mehr Menschen, daher Unterstützuzng nötig
+
+Carolin, Internationales PM
+Vor einem Jahr SW eingekauft, war nicht erfolgreich
+sehr motiviertes Team, wollen loslegen
+kompetenzen fehlen, auch KI
+
+Team ist in der Initialisierungsphase mit versch. WOrkshops
+Inas Team ist schon operativ unterwegs
+
+Team verteilt, aber gut, dass in der Nähe, zwecks treffen
+Hast du schonmal sich neu formende Teams begleitet?
+- Erstmal lernen und verstehen, was eure Situation ist, Ziele, Rahmenbedingungen..
+- INitial gleiches Zielbild aufbauen inhaltlich, Prozesse wie zusammenarbeiten
+- MIt KI arbeiten, was heißt das, wie wollen wir es benutzen?
+
+Wie beschreibst du dich und deine Arbeitsweise?
+- pragmatisch, kein antreiber
+
+was geschätzt an DM
+- offen und umgänglich miteinander, kann kontruktiv seine ideen einbringen
+was nicht geschätzt
+- wenn das team andere dinge gemacht hat als die hoc priorisierten
+
+wie groß soll das team werden?
+2 PO, 1 fachlicher Lead zusätzlich 1xUX, 1 Technical Lead, 2 Entwickler, 2 interne Entwickler, 1 KI Accel. mit 2 KI Entwicklern
+
+Projekt von Ina und Andrea Top Prio Projekt, bisher 50% Coach, Start aber dort 100%, danach die anderen 50% woanders unterstützen.
+_> seine Kapa steiern
+
+
+# Vorstellungsgespräch Jan Bauer dmTECH
+
+Linuxmigration Kassen
+
+Ulrich SW Entwickler, recht neu in Linux, Projektmanagement
+Matthias 6-7 Jahre dm, Anwendungsentwicklung, Plattformeng
+Mag Automatisierung, KA
+Nico 7 Jahre im Projekt, PV
+Alle aus Anwendungsentw. Rolle Richtrung DevOps entwickelt
+
+Verantworten Kassenplattform
+Wie können die Kassen mit Linux betrieben werden?
+Ca. 80 Entwickler in verschiedenen Teams arbeiten auf Kassensoftware
+Container Runtime
+-> wir stellen euch eine Plattform bereit, auf der ihr Container laufen lassen könnt
+Autom. Betriebssystem auf Kassen bringen
+
+Machen auch KI, reingewachsen
+Sind keine Linux Experten
+KI macht auch System Engineering
+Linux System auch auf andere Geräte bringen auf Roadmap
+
+Wenig Pair Programming -> eher jeder selbst auf Claude bauen
+Code Review nicht immer viel
+
+! Anwendungen schreiben, Jan will lieber abwarten
+
+Fragen:
+- Arbeitsalltag: mit Kollegen gut auskommen, Technik interessant, Sinn bei Arbeit
+- am liebsten vor Ort, auch remote, gerne zu dm kommen
+
+-> bei dm selten alle vor Ort, full remote
+
+Probleme im Prozess durch KI, mehr sync nötig
+-> jede Woche Planning wegen Geschwindigkeit
+- haben Monatsziele, grobe Sprintziele
+
+Siehst du dich eher als Techniker/Enwickler oder Prozessverbesserer
+-> Techniker, aber auch Prozess
+
+Team ist Teil von OCC, macht Plattform für Kassen
+OCC: Alles was du als Kunde siehst außer online Shop
+Team recht isoliert im Doing, abh. zu Netzwerk
+-> sehr unabhängig
+
+Bereich hat ca. 100 Personen
+In diesem Produktteam 8 Leute, davon 7 SW-Entwickler, Oli Projektmanagement und fachl. Klärung, Christian TV, Simonee Agile Coach (3-4 für Bereich)
+
+Beraten ob sinnvoll im Dezember noch oder erst ab 01.01.
+70% wie aufgeteilt, jeden Tag aber kürzer
+Kernarbeitszeit 09:45 Uhr Daily bis ca. 16 Uhr
+
+# Abstimmung mit Fahd und Jan
+
+Mail zusammen mit Fahd am Montag, 16.11. 
+Frist setzen bis Wochenende an Cognigy
+Ich kommuniziere zu dmTECH
+- Ich arbeite daran, dass Jan langfristig zu dmTECH kann
+- Bisher bis Ende Januar, jetzt 80%, im Januar nicht voll
+- klare Aussage ob langfrsitige Perspektive bis Ende der Woche
+- lasst uns sprechen
+
+
+
+# dm im Haus, Gast, Raum buchen, Teamtag, Team Tag
+
+Leitfaden von Markus:
+
+https://teams.microsoft.com/l/message/19:8836b702dd2549428b8bce119aa8e5c8@thread.skype/1755250526015?groupId=5b2237cc-57f5-4a8b-9b40-edb3a93f8b65&parentMessageId=1755243914521&tenantId=bb3ec2d3-ce5f-4b8f-91b8-64566ad495ae
+
+
+# Vorstellungsgespräch Marcel Jung
+
+-	Marcel ist ab dem 01.12. verfügbar
+-	Expert-Level 
+-	In diesem Fall können wir euch eine einwöchige Einarbeitung ohne Berechnung anbieten
+
+Alternativen: Fei Chen, Manuel Butz
+
+Ralf
+- 2022 dmTECH, PV in Plattformteam bei Kassensystemen
+  Kassensysteme in Märkte 
+- 2023 Wechsel zu TV für drei Produktteams
+  - Bediente Kasse: MCS managef checkout solutions
+  - Enabling team: Kassensysteme
+  - Komponentenprodukt in OCC -- checkout loyality solutions (partnerprogramm payback) <---- Fokus 
+    z.B. Authentifikation
+- Softwareentwickler
+
+- Momentan auch PV für CLS
+
+Bastian
+- 11 Jahre DM, Backendentwickler
+- Heute Kasse OCC
+- (Enterprise) Architektur
+- remote, alle 2 Wochen in KA
+- Services: Punkte sammeln und einlösen
+
+Jens
+- 3 Jahre dm
+- remote, Frankental bei Mannheim
+
+Marcel
+----
+
+- Privates
+- Vorstellung letzter Projekte
+- Kaum Front-end, react viel mit KI gemacht
+- Agentische KI-Entwicklung
+- Wünsche an ein Team: Funktionierendes Team, offen, respektvoll, soll sich gegenseitig unterstützen
+- will nicht gleich unkrempeln, lieber nach und nach Verbesserungsvorschläge machen
+- eher der ruhigere Typ, kann aber auch meine Meinung sagen
+
+Welche AI-Anbieter verwendet:
+- Sonnet und Opus
+- Frontend: wie war das vom Prozess mit KI
+  - Code Review war immer noch durch Mensch
+
+- Arbeite gerne alleine aber will nicht nur alleine arbeiten, gerne auch mti anderen oder in einem phys. Raum.
+- dm macht einen virtuellen Raum in Teams, offen den ganzen Tag
+
+- Daniel und Dave, Sabine sind oft im Büro: Marcel kann auch gerne dort hin
+
+- Wie sollte der Payload bei Messaging aussehen, was sollte man filtern?
+- Filtern über clients oder queues
+- Erfahrung mit Legacy-Systemen? Wie vorgegangen? Durch alten Code gewühlt?
+
+- Konkrete Incident Behandlungserfahrung?
+- Wie würdest du dich in den neuen Tech Stack einarbeiten?
+- Wie gehst du mit Security Anforderungen um?
+- Was sind deine eigenen Anforderungen an sichere Entwicklung? Wie beeinflusst das deine Softwareentwicklung
+
+- Windows/Mac -> Windows, einziger im Team
+
+! Business facing produkte: bediente und selbstbediente kasse
+! PMPOS alte Kasse, Neuentwicklung SB-Kasse NEXT
+
+KI auch ein Thema
+Architekturvorgaben ARC Team, Thema Governance entwirft Leitplanken, wer überwacht, wer macht Regeln. noch am Anfang
+
+6 Piloten, die sich selbst eine Factory aufbauen für ihr tägliches Standardgeschäft; Konsolidieren momentan die Ergebnisse. Idee REQEng. in Factory aufnehmen
+
+CoPs vorhanden
+
+DM-Kultur:
+---
+Beratungspflicht: Beratung einholen für Entscheidungen!
+Dialog!!!
+
+
 # Vertrag Kristian/Duc/Lilli
 
 - Lilli mit 100%?
