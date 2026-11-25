@@ -1,3 +1,11 @@
+# Gespräch mit Richard, 23.11.
+
+Thema: Natalia abziehen.
+
+Das mit der russischen Staatsbürgerschaft war ihnen zu heiß. Kam wohl nicht von Richard und vermutlich auch nicht von Michael Rammensee. Schade, weil sie ja alle Daten und Infos hatten und auch das Vorstellungsgespräch gut war. Und es ihr erster Tag war...
+ 
+Aber sie wollten keinen aufwändigen Hintergrundcheck machen müssen...
+
 # Kennenlernen Natalia / Richard, 17.11.
 
 sichere deployments? prod/test -> staging

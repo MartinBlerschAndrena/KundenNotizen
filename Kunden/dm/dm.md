@@ -1,3 +1,49 @@
+# Telefongespräch mit Niklas Murr, 25.11.
+
+Thema: neuer Vertrag für Christian Jansohn, Svenja Fontana und Jochen Reuter
+
+Die drei offenen Punkte gehen in Ordnung
+- Konkurrenzschutz (bisher §12 Abs. 2)
+- Abwerbeverbot (bisher §14)
+- Haftungsbeschränkung auf insgesamt 10.000.000 EUR pro Jahr (bisher §13)
+
+Tagessatz von Jochen bleibt bis Ende Februar 2026.
+
+Offen: AVV erstellen, entweder zentral über Dominik oder direkt mit Niklas
+-> Dominik angeschrieben, 25.11.
+
+Mitgeteilt, dass Svenja nach dem Ausscheiden aus den Vertrauensrat mehr Kapa hat.
+
+Perspektive: 
+- Christian Jansohn und Svenja Fontana sind dauerhaft eingeplant
+- Alle erst einmal je 80PT beauftragt, es kann aber auch mehr abgerufen werden
+- JOCHEN: Niklar ist sich nicht sicher, ob das Team zu groß und daher unperformant ist.
+  Er überlegt, ob Jochen weiter beschäftigt werden soll nach Februar.
+  Er ist mit ihm aber sehr zufrieden.
+
+-> ToDo: Mitte Februar besprechen, ob Jochen weiterhin bei dmTECH bleibt. Falls ja, Studensatz erhöhen
+
+
+# Sebastian Koch Vertragsverlängerungen
+
+-> angeschrieben am 25.11.
+
+Thema: Verträge erneuen:
+
+Stefan Dürrfeld - Expert Agile Software Engineer
+- passt
+
+Daniela Ruchser - Professional Agile Software Engineer
+- 2010 -> Senior, 1024€ -> 128€/h
+
+Josua Münch
+- Professional Agile Coach (mindestens 2 Jahre Berufserfahrung) 1.220,- EUR / 152,50€/h
+  ab Juli?
+
+# Vorstellungsgespräch Andreas Kaffer dmTECH
+
+- steigt mehr in das Projekt ein
+
 # Feedback zu Jan dmTECH / EA mit Thomas Anderer, 19.11.
 
 komplizierte Situation, Thomas war beim zweitgespträch nicht dabei

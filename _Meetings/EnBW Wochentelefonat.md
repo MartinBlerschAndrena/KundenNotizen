@@ -1,3 +1,14 @@
+# Wochentelefonat 20.11.26
+
+- Natalia startet
+- Budget sparen
+
+Themen aus der Runde:
+- Felix
+  - Termin wie wir agentische SW Entwicklung machen wollen nächste WOche
+- Pascal
+  - Sebastian und Pascal 4 PT zu wenig
+
 # Wochentelefonat 13.11.26
 
 - Felix

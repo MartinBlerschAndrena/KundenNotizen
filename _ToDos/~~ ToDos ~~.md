@@ -4,9 +4,29 @@
 
 - [-] Antwort: Sergej APM
 - [ ] technischer SM für dmTECH
-- [ ] Nachhaken Training DM Early Bird PSM 9.12. -> Ilona Dikreiter angeschrieben am 18.11.
+- [ ] Thomas Anderer, EA Stelle
+- [ ] Jenni, wegen Freddie
+
 
 ## dringend
+
+- [ ] Robin in Stuttgart lassen?
+  -> mit Fahd abstimmen
+
+- [-] Neuer Vertrag IAM - Jahnson, Reuter, Fontana
+    Jochen Reuter -> Tagessatz erhöhen ab 1.3.2027?
+    -> Vertrag wird angefertigt, AVV nötig, Ende Februar Jochen raus?
+
+- [ ] AVV Entwurf Dominik Stober
+   -> wurde angeschrieben, warten auf Rückmeldung
+   -> wurde erneut angeschrieben, warten auf Rückmeldung, 25.11.
+
+- [-] Stefan, Daniela und Josua
+  -> Sebastian Koch angeschrieben, 25.11.
+  -> neuer Vertrag und höhere Konditionen
+     - Stefan Dürrfeld - Expert Agile Software Engineer, passt
+     - Daniela Ruchser - Professional Agile Software Engineer - seit 2010 bei andrena -> Senior, 1024€ -> 128€/h
+     - Josua Münch - Professional Agile Coach (mindestens 2 Jahre Berufserfahrung) 1.220,- EUR / 152,50€/h - ab Juli?
 
 - [-] CGI ansprechen, 713€
   - EnBW kann sich das vorstellen mit Miriam über uns, wenn wir den Vertrag gewinnen
@@ -16,32 +36,21 @@
 - [-] Partenerverträge, - Daniel hat Neues vom Anwalt freigegeben. Ablgleich, was verwendet werden darf
 - Arbeitszeiten.
 - Orientieren an bei EnBW Veträgen
+-> E-Mail gesendet am 23.11.: abwarten auf getrennte Ausschreibung
 
-- [ ] Mit Fahd sprechen über Michael Battenfeld
-   - Die Deka möchte gerne verlängern für 2027 - ich würde gerne asap eine Antwort senden. Wenn ihr ihn braucht, könnte ich ihn zum 01.06.27 rauszunehmen, Oli
-   - eigentliche Beauftragung bei DM weswegen wir Ihn rausziehen wollten wird ja nix.
-   - Kandidat als Product Partner für unser neue Produkt.
 
+- [-] Kundentag Informationen rausschicken
+  -> an DM Kundenteam gesenden, 23.11.
+  -> Feedback ans Team
 
 - DM Verlängerungen nach Vertrag in ToDoListe
 
-- [ ] Mit Fahd sprechen wegen dmTECH EA andere Coaches schicken
 - [ ] Feedback an Jan
-
-- [ ] Reiner Sailer Zu-/Absage
-
-- [-] Vertrag DM Niklas, den Daniel abgelehnt hatte wieder aufnehmen
 
 - [ ] Nachbereitung Messe
 - [ ] Nachbereitung dmTECH Kundenteamtreffen
-    
-    
+        
 - [ ] schauen, ob alle bei dmTECH einen neuen Vertrag haben, siehe Daniel Förster
-
-- [-] Die 80PT Beauftragungen von dmTECH bis Jahresende prüfen
-  - Lukas Brenk [Christian Mohr, Jennifer Künstle]
-  - Ronja Zimmermann
-  - Jenni angeschrieben am 12.11.
 
 - [-] Nachfrage PZO Begleitung
       Gespräch mit Christian Bosch, 28.09.
@@ -50,24 +59,12 @@
           Meldet sich in ca. 7-10 Tage nochmal
       --> angeschrieben am 02.11.
 
-- [ ] Prolongation EnBW Aufträge
-
 
 ## Mitteldringend
 
-- [ ] Mit Timm besprechen: wie kann man die KA-IT-Si benutzen, um beim Kunden dmTECH besser sichtbar zu werden?
-
 - [ ] KI-Austauschformat etablieren
 
- dmTECH
-
-- [ ] Svenja hat wieder mehr Wochenstunden für DM nach Ausscheiden aus dem Vertrauensrat, Meldung an DM?
-  - [ ] Niklas Muhr (ERP) (Chef von Li Yang)
-  -> wurde angeschrieben, warten auf Rückmeldung
-
-- [ ] AVV Entwurf Dominik Stober
-   -> wurde angeschrieben, warten auf Rückmeldung
-
+ 
 ## Nicht dringend
 
 
@@ -89,9 +86,23 @@
 
 
 
+- [X] Svenja hat wieder mehr Wochenstunden für DM nach Ausscheiden aus dem Vertrauensrat, Meldung an DM?
+  - [ ] Niklas Muhr (ERP) (Chef von Li Yang)
+  -> wurde angeschrieben, warten auf Rückmeldung
+  -> an Niklar Murr gemeldet, er gibt es ans Team weiter, 25.11.
 
-
-
+--- Fahd
+- [ ] Mit Fahd sprechen über Michael Battenfeld
+   - Die Deka möchte gerne verlängern für 2027 - ich würde gerne asap eine Antwort senden. Wenn ihr ihn braucht, könnte ich ihn zum 01.06.27 rauszunehmen, Oli
+   - eigentliche Beauftragung bei DM weswegen wir Ihn rausziehen wollten wird ja nix.
+   - Kandidat als Product Partner für unser neue Produkt.
+- [ ] Mit Fahd sprechen wegen dmTECH EA andere Coaches schicken
+  -> angeschrieben am 23.11., Klärung im Büro
+- Michael Battenfeld: Mind. 1 Jahr bleibt er bei Oli -> lieber erst ab April
+-> entscheidet sich morgen Nachmittag (24.11.) zwischen Fahd und Andreas
+- [-] dmTECH Jenni wegen Freddy nachhaken
+  -> angeschrieben am 23.11.
+- [X] Nachhaken Training DM Early Bird PSM 9.12. -> Ilona Dikreiter angeschrieben am 18.11.
 - [X] Ausschreibung EnBW
   - 20% Effizienzsteigerung durch KI 
   - In Kurzkonzept sagen warzum wir das können

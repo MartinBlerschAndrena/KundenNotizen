@@ -1,3 +1,9 @@
+# 2-Wochentelefonat 24.11.
+
+Themen für den Kundentag: ETECH Elvis 
+-> auf Markus W. zugehen, vielleicht weiß der, ob das was für S. Futterer ist
+
+
 # Führung 06.11.
   
 - Jan Bauer genommen
@@ -33,6 +39,11 @@ am liebsten jemanden, der EA bei einem anderen kunden war
 - Im Januar dann eventuell jemanden, der das dann umsetzt, er meldet sich dazu dann bei uns.
 
 
+Einladungen Fachabend: 
+- Christian	Mohr - Absage
+- Stephan	Seitz -- ??? Fahd
+- Jochen Kieninger
+- Felix Schad - Absage
 
 
 
